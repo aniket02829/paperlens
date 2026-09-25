@@ -1,0 +1,26 @@
+# Environment
+.env
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Uploads (temporary files)
+uploads/*
+!uploads/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log

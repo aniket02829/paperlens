@@ -1,0 +1,109 @@
+/* Custom Styles for PaperLens */
+
+/* Animations */
+@keyframes stripe-scroll {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+}
+
+.loading-stripe {
+    animation: stripe-scroll 1.5s linear infinite;
+}
+
+@keyframes glow-pulse {
+    0% { box-shadow: 0 0 5px rgba(59, 130, 246, 0.4); }
+    50% { box-shadow: 0 0 15px rgba(59, 130, 246, 0.7); }
+    100% { box-shadow: 0 0 5px rgba(59, 130, 246, 0.4); }
+}
+
+.glow-badge-journal { box-shadow: 0 0 10px rgba(59, 130, 246, 0.5); border: 1px solid rgba(59, 130, 246, 0.3); }
+.glow-badge-conf { box-shadow: 0 0 10px rgba(168, 85, 247, 0.5); border: 1px solid rgba(168, 85, 247, 0.3); }
+.glow-badge-arxiv { box-shadow: 0 0 10px rgba(249, 115, 22, 0.5); border: 1px solid rgba(249, 115, 22, 0.3); }
+
+/* Drag and Drop Zone Active State */
+.dropzone-area.dragover {
+    border-color: #3b82f6;
+    background-color: rgba(59, 130, 246, 0.05);
+}
+.dark .dropzone-area.dragover {
+    border-color: #60a5fa;
+    background-color: rgba(59, 130, 246, 0.1);
+}
+
+/* Gradient Border for Dropzone */
+.dropzone-area {
+    position: relative;
+}
+.dropzone-area::before {
+    content: '';
+    position: absolute;
+    inset: -2px;
+    border-radius: 0.85rem;
+    background: linear-gradient(45deg, #3b82f6, #8b5cf6, #ec4899, #3b82f6);
+    background-size: 200% 200%;
+    z-index: -1;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    animation: gradient-shift 3s ease infinite;
+}
+.dropzone-area:hover::before, .dropzone-area.dragover::before {
+    opacity: 0.15;
+}
+.dark .dropzone-area:hover::before, .dark .dropzone-area.dragover::before {
+    opacity: 0.4;
+}
+
+@keyframes gradient-shift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* Custom Scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 10px;
+}
+.dark .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #475569;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+}
+
+/* Donut Chart Container */
+.donut-container canvas {
+    position: relative;
+    z-index: 10;
+}
+
+/* Print Styles */
+@media print {
+    nav, footer, .dropzone-area, #btnResetSingle, #btnResetBulk, #btnShare, #themeToggle, #aboutBtn {
+        display: none !important;
+    }
+    body {
+        background-color: white !important;
+        color: black !important;
+    }
+    .dark body { /* Override dark mode for print */
+        background-color: white !important;
+        color: black !important;
+    }
+    .shadow-xl, .shadow-sm {
+        box-shadow: none !important;
+    }
+    .border, .border-gray-200 {
+        border: 1px solid #ddd !important;
+    }
+    #singleResultSection, #bulkResultSection {
+        display: block !important; /* Force show content if printing */
+    }
+}

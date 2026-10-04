@@ -1,0 +1,42 @@
+# Environment
+.env
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Uploads (temporary files)
+uploads/*
+!uploads/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Frontend build
+node_modules/
+
+# Evaluation PDFs (rebuild with eval/build_dataset.py)
+eval/pdfs/
+
+# The built frontend is committed so deploys need no Node (see frontend/)
+!static/dist/
+
+# Large upstream lists (re-download with update_data.py); the small lists are committed
+data/sources/sjr.csv
+data/sources/doaj.csv
+data/sources/scopus_sources.xlsx
+data/sources/*.part
+data/paper_classifier.db.building

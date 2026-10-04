@@ -1,0 +1,105 @@
+id,url,expected_category,expected_venue,venue_key,expected_rank,expected_conference_type,sampled_on
+conf-2022.coling-1.524,https://aclanthology.org/2022.coling-1.524.pdf,conference,COLING 2022,COLING,B,International,2026-10-03
+conf-2022.coling-1.59,https://aclanthology.org/2022.coling-1.59.pdf,conference,COLING 2022,COLING,B,International,2026-10-03
+conf-2022.lrec-1.148,https://aclanthology.org/2022.lrec-1.148.pdf,conference,LREC 2022,LREC,B,International,2026-10-03
+conf-2022.lrec-1.503,https://aclanthology.org/2022.lrec-1.503.pdf,conference,LREC 2022,LREC,B,International,2026-10-03
+conf-2023.acl-long.29,https://aclanthology.org/2023.acl-long.29.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.6,https://aclanthology.org/2023.acl-long.6.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.625,https://aclanthology.org/2023.acl-long.625.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.conll-1.22,https://aclanthology.org/2023.conll-1.22.pdf,conference,CoNLL 2023,CoNLL,B,International,2026-10-03
+conf-2023.conll-1.3,https://aclanthology.org/2023.conll-1.3.pdf,conference,CoNLL 2023,CoNLL,B,International,2026-10-03
+conf-2023.emnlp-main.296,https://aclanthology.org/2023.emnlp-main.296.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.510,https://aclanthology.org/2023.emnlp-main.510.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.538,https://aclanthology.org/2023.emnlp-main.538.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.ranlp-1.114,https://aclanthology.org/2023.ranlp-1.114.pdf,conference,RANLP 2023,RANLP,National: bulgaria,National,2026-10-03
+conf-2023.ranlp-1.66,https://aclanthology.org/2023.ranlp-1.66.pdf,conference,RANLP 2023,RANLP,National: bulgaria,National,2026-10-03
+conf-2024.eacl-long.122,https://aclanthology.org/2024.eacl-long.122.pdf,conference,EACL 2024,EACL,A,International,2026-10-03
+conf-2024.eacl-long.97,https://aclanthology.org/2024.eacl-long.97.pdf,conference,EACL 2024,EACL,A,International,2026-10-03
+conf-2024.naacl-long.153,https://aclanthology.org/2024.naacl-long.153.pdf,conference,NAACL 2024,NAACL,A,International,2026-10-03
+conf-2024.naacl-long.265,https://aclanthology.org/2024.naacl-long.265.pdf,conference,NAACL 2024,NAACL,A,International,2026-10-03
+conf-CVPR2023-Khan_Q_How_To_Specialize_Large_Vision-La,https://openaccess.thecvf.com/content/CVPR2023/papers/Khan_Q_How_To_Specialize_Large_Vision-Language_Models_to_Data-Scarce_VQA_CVPR_2023_paper.pdf,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Liu_AdaptiveMix_Improving_GAN_Training_v,https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_AdaptiveMix_Improving_GAN_Training_via_Feature_Space_Shrinkage_CVPR_2023_paper.pdf,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Peng_Perception_and_Semantic_Aware_Regul,https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_Perception_and_Semantic_Aware_Regularization_for_Sequential_Confidence_Calibration_CVPR_2023_paper.pdf,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-WACV2024-Barsellotti_FOSSIL_Free_Open-Vocabulary_,https://openaccess.thecvf.com/content/WACV2024/papers/Barsellotti_FOSSIL_Free_Open-Vocabulary_Semantic_Segmentation_Through_Synthetic_References_Retrieval_WACV_2024_paper.pdf,conference,WACV 2024,WACV,A,IEEE,2026-10-03
+conf-WACV2024-Reich_Differentiable_JPEG_The_Devil_Is_i,https://openaccess.thecvf.com/content/WACV2024/papers/Reich_Differentiable_JPEG_The_Devil_Is_in_the_Details_WACV_2024_paper.pdf,conference,WACV 2024,WACV,A,IEEE,2026-10-03
+conf-neurips2023-2f76a3a0f4,https://proceedings.neurips.cc/paper_files/paper/2023/file/2f76a3a0f44263b5e56fec69ee1220f9-Paper-Conference.pdf,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-8393d955a0,https://proceedings.neurips.cc/paper_files/paper/2023/file/8393d955a00c463a982cefe77d0404e1-Paper-Conference.pdf,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-d6d0e41e0b,https://proceedings.neurips.cc/paper_files/paper/2023/file/d6d0e41e0b1ed38c76d13c9e417a8f1f-Paper-Conference.pdf,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-pmlr-v195-cao23a,https://proceedings.mlr.press/v195/cao23a/cao23a.pdf,conference,COLT 2023,COLT,A*,International,2026-10-03
+conf-pmlr-v195-diakonikolas23b,https://proceedings.mlr.press/v195/diakonikolas23b/diakonikolas23b.pdf,conference,COLT 2023,COLT,A*,International,2026-10-03
+conf-pmlr-v202-bauer23a,https://proceedings.mlr.press/v202/bauer23a/bauer23a.pdf,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-kauvar23a,https://proceedings.mlr.press/v202/kauvar23a/kauvar23a.pdf,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-liu23o,https://proceedings.mlr.press/v202/liu23o/liu23o.pdf,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v206-belakaria23a,https://proceedings.mlr.press/v206/belakaria23a/belakaria23a.pdf,conference,AISTATS 2023,AISTATS,A,International,2026-10-03
+conf-pmlr-v206-cong23a,https://proceedings.mlr.press/v206/cong23a/cong23a.pdf,conference,AISTATS 2023,AISTATS,A,International,2026-10-03
+conf-pmlr-v216-hochsprung23a,https://proceedings.mlr.press/v216/hochsprung23a/hochsprung23a.pdf,conference,UAI 2023,UAI,A,International,2026-10-03
+conf-pmlr-v216-padmanabhan23a,https://proceedings.mlr.press/v216/padmanabhan23a/padmanabhan23a.pdf,conference,UAI 2023,UAI,A,International,2026-10-03
+conf-pmlr-v222-jiang24a,https://proceedings.mlr.press/v222/jiang24a/jiang24a.pdf,conference,ACML 2023,ACML,C,International,2026-10-03
+conf-pmlr-v222-zhang24a,https://proceedings.mlr.press/v222/zhang24a/zhang24a.pdf,conference,ACML 2023,ACML,C,International,2026-10-03
+journal-Q1-W3027237079,https://openalex.org/W3027237079,journal,,,Q1,,2026-10-03
+journal-Q1-W3123775503,https://openalex.org/W3123775503,journal,,,Q1,,2026-10-03
+journal-Q1-W3183615998,https://openalex.org/W3183615998,journal,,,Q1,,2026-10-03
+journal-Q1-W3195459976,https://openalex.org/W3195459976,journal,,,Q1,,2026-10-03
+journal-Q1-W4281259845,https://openalex.org/W4281259845,journal,,,Q1,,2026-10-03
+journal-Q1-W4282016954,https://openalex.org/W4282016954,journal,,,Q1,,2026-10-03
+journal-Q1-W4307807511,https://openalex.org/W4307807511,journal,,,Q1,,2026-10-03
+journal-Q1-W4363679403,https://openalex.org/W4363679403,journal,,,Q1,,2026-10-03
+journal-Q1-W4388488349,https://openalex.org/W4388488349,journal,,,Q1,,2026-10-03
+journal-Q1-W4389737189,https://openalex.org/W4389737189,journal,,,Q1,,2026-10-03
+journal-Q2-W3179164182,https://openalex.org/W3179164182,journal,,,Q2,,2026-10-03
+journal-Q2-W3205137010,https://openalex.org/W3205137010,journal,,,Q2,,2026-10-03
+journal-Q2-W4220772846,https://openalex.org/W4220772846,journal,,,Q2,,2026-10-03
+journal-Q2-W4221134614,https://openalex.org/W4221134614,journal,,,Q2,,2026-10-03
+journal-Q2-W4283719411,https://openalex.org/W4283719411,journal,,,Q2,,2026-10-03
+journal-Q2-W4283770495,https://openalex.org/W4283770495,journal,,,Q2,,2026-10-03
+journal-Q2-W4310869450,https://openalex.org/W4310869450,journal,,,Q2,,2026-10-03
+journal-Q2-W4377093113,https://openalex.org/W4377093113,journal,,,Q2,,2026-10-03
+journal-Q2-W4385348205,https://openalex.org/W4385348205,journal,,,Q2,,2026-10-03
+journal-Q2-W4387197159,https://openalex.org/W4387197159,journal,,,Q2,,2026-10-03
+journal-Q3-W3177469262,https://openalex.org/W3177469262,journal,,,Q3,,2026-10-03
+journal-Q3-W3188216179,https://openalex.org/W3188216179,journal,,,Q3,,2026-10-03
+journal-Q3-W3193670788,https://openalex.org/W3193670788,journal,,,Q3,,2026-10-03
+journal-Q3-W4200189219,https://openalex.org/W4200189219,journal,,,Q3,,2026-10-03
+journal-Q3-W4206809726,https://openalex.org/W4206809726,journal,,,Q3,,2026-10-03
+journal-Q3-W4210380238,https://openalex.org/W4210380238,journal,,,Q3,,2026-10-03
+journal-Q3-W4224305856,https://openalex.org/W4224305856,journal,,,Q3,,2026-10-03
+journal-Q3-W4224306304,https://openalex.org/W4224306304,journal,,,Q3,,2026-10-03
+journal-Q3-W4281626433,https://openalex.org/W4281626433,journal,,,Q3,,2026-10-03
+journal-Q3-W4362578055,https://openalex.org/W4362578055,journal,,,Q3,,2026-10-03
+journal-Q4-W3154665353,https://openalex.org/W3154665353,journal,,,Q4,,2026-10-03
+journal-Q4-W3172358844,https://openalex.org/W3172358844,journal,,,Q4,,2026-10-03
+journal-Q4-W3183676358,https://openalex.org/W3183676358,journal,,,Q4,,2026-10-03
+journal-Q4-W3204708469,https://openalex.org/W3204708469,journal,,,Q4,,2026-10-03
+journal-Q4-W4200611170,https://openalex.org/W4200611170,journal,,,Q4,,2026-10-03
+journal-Q4-W4226142375,https://openalex.org/W4226142375,journal,,,Q4,,2026-10-03
+journal-Q4-W4308881151,https://openalex.org/W4308881151,journal,,,Q4,,2026-10-03
+journal-Q4-W4387489895,https://openalex.org/W4387489895,journal,,,Q4,,2026-10-03
+journal-Q4-W4390900271,https://openalex.org/W4390900271,journal,,,Q4,,2026-10-03
+journal-Q4-W4404526692,https://openalex.org/W4404526692,journal,,,Q4,,2026-10-03
+arxiv-2610.02203,https://arxiv.org/pdf/2610.02203,arxiv,arXiv,cs.LG,,,2026-10-03
+arxiv-2610.02207,https://arxiv.org/pdf/2610.02207,arxiv,arXiv,cs.LG,,,2026-10-03
+arxiv-2610.02117,https://arxiv.org/pdf/2610.02117,arxiv,arXiv,cs.LG,,,2026-10-03
+arxiv-2610.01702,https://arxiv.org/pdf/2610.01702,arxiv,arXiv,cs.CL,,,2026-10-03
+arxiv-2610.01963,https://arxiv.org/pdf/2610.01963,arxiv,arXiv,cs.CL,,,2026-10-03
+arxiv-2610.01688,https://arxiv.org/pdf/2610.01688,arxiv,arXiv,cs.CL,,,2026-10-03
+arxiv-2610.02051,https://arxiv.org/pdf/2610.02051,arxiv,arXiv,cs.CV,,,2026-10-03
+arxiv-2610.02205,https://arxiv.org/pdf/2610.02205,arxiv,arXiv,cs.CV,,,2026-10-03
+arxiv-2610.02208,https://arxiv.org/pdf/2610.02208,arxiv,arXiv,cs.CV,,,2026-10-03
+arxiv-2610.01907,https://arxiv.org/pdf/2610.01907,arxiv,arXiv,cs.CR,,,2026-10-03
+arxiv-2610.01872,https://arxiv.org/pdf/2610.01872,arxiv,arXiv,cs.CR,,,2026-10-03
+arxiv-2610.01300,https://arxiv.org/pdf/2610.01300,arxiv,arXiv,cs.CR,,,2026-10-03
+arxiv-2610.01795,https://arxiv.org/pdf/2610.01795,arxiv,arXiv,math.CO,,,2026-10-03
+arxiv-2610.01137,https://arxiv.org/pdf/2610.01137,arxiv,arXiv,math.CO,,,2026-10-03
+arxiv-2610.01273,https://arxiv.org/pdf/2610.01273,arxiv,arXiv,math.CO,,,2026-10-03
+arxiv-2609.37642,https://arxiv.org/pdf/2609.37642,arxiv,arXiv,q-bio.NC,,,2026-10-03
+arxiv-2609.34864,https://arxiv.org/pdf/2609.34864,arxiv,arXiv,q-bio.NC,,,2026-10-03
+arxiv-2610.01303,https://arxiv.org/pdf/2610.01303,arxiv,arXiv,q-bio.NC,,,2026-10-03
+arxiv-2610.01706,https://arxiv.org/pdf/2610.01706,arxiv,arXiv,physics.optics,,,2026-10-03
+arxiv-2610.00747,https://arxiv.org/pdf/2610.00747,arxiv,arXiv,physics.optics,,,2026-10-03
+arxiv-2609.39928,https://arxiv.org/pdf/2609.39928,arxiv,arXiv,physics.optics,,,2026-10-03
+arxiv-2609.38459,https://arxiv.org/pdf/2609.38459,arxiv,arXiv,econ.GN,,,2026-10-03
+arxiv-2609.31951,https://arxiv.org/pdf/2609.31951,arxiv,arXiv,econ.GN,,,2026-10-03
+arxiv-2609.32476,https://arxiv.org/pdf/2609.32476,arxiv,arXiv,econ.GN,,,2026-10-03
+arxiv-2610.01313,https://arxiv.org/pdf/2610.01313,arxiv,arXiv,stat.ME,,,2026-10-03
+arxiv-2609.39742,https://arxiv.org/pdf/2609.39742,arxiv,arXiv,stat.ME,,,2026-10-03
+arxiv-2610.00766,https://arxiv.org/pdf/2610.00766,arxiv,arXiv,stat.ME,,,2026-10-03

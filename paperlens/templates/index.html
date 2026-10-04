@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PaperLens – Research Paper Classification</title>
+    <meta name="description" content="Classify any research paper as a journal article (Scimago quartile Q1–Q4), a conference paper (IEEE, International or National, with CORE rank) or a preprint with suitable journals. Search by DOI, arXiv identifier or title, or upload a PDF.">
+    <meta name="theme-color" content="#1E3A5F">
+    <meta name="color-scheme" content="light dark">
+    <link rel="canonical" href="https://paperlens-imv4.onrender.com/">
+    <meta property="og:title" content="PaperLens – Research Paper Classification">
+    <meta property="og:description" content="Journal quartile, conference ranking or preprint status for any research paper.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://paperlens-imv4.onrender.com">
+    <meta property="og:image" content="https://paperlens-imv4.onrender.com/static/og.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="PaperLens: where was this paper published, and how good is the venue?">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="PaperLens – Research Paper Classification">
+    <meta name="twitter:description" content="Journal quartile, conference ranking or preprint status for any research paper.">
+    <meta name="twitter:image" content="https://paperlens-imv4.onrender.com/static/og.png">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%231E3A5F'/><circle cx='14' cy='14' r='7' stroke='white' stroke-width='2.5' fill='none'/><path d='m19.5 19.5 6 6' stroke='white' stroke-width='2.5' stroke-linecap='round'/></svg>">
+    {% for href in assets.css %}<link rel="stylesheet" href="{{ href }}">
+    {% endfor %}
+    <!-- Applies the saved theme before first paint, so there is no light flash in dark mode. -->
+    <script src="/static/js/theme.js"></script>
+    {% if assets.js %}<script type="module" src="{{ assets.js }}"></script>{% endif %}
+</head>
+<body>
+    <div id="root"></div>
+    <noscript>
+        <p>PaperLens needs JavaScript to run in the browser. You can also use the API: <code>curl -X POST /api/lookup -H 'Content-Type: application/json' -d '{"query": "10.1109/CVPR.2016.90"}'</code></p>
+    </noscript>
+</body>
+</html>

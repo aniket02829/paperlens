@@ -1,0 +1,72 @@
+{
+  "name": "baseline",
+  "papers": 104,
+  "category_accuracy": 0.442,
+  "per_class": {
+    "journal": {
+      "precision": 0.818,
+      "recall": 0.9,
+      "f1": 0.857,
+      "support": 40
+    },
+    "conference": {
+      "precision": 0.769,
+      "recall": 0.27,
+      "f1": 0.4,
+      "support": 37
+    },
+    "arxiv": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 27
+    },
+    "macro_f1": 0.419
+  },
+  "confusion": {
+    "journal": {
+      "journal": 36,
+      "conference": 0,
+      "arxiv": 0,
+      "unknown": 4
+    },
+    "conference": {
+      "journal": 4,
+      "conference": 10,
+      "arxiv": 0,
+      "unknown": 23
+    },
+    "arxiv": {
+      "journal": 4,
+      "conference": 3,
+      "arxiv": 0,
+      "unknown": 20
+    }
+  },
+  "journal_quartile_accuracy": 0.944,
+  "journal_quartile_n": 36,
+  "conference_rank_accuracy": 0.0,
+  "conference_rank_n": 10,
+  "conference_type_accuracy": 0.5,
+  "conference_type_n": 10,
+  "confidence_bands": {
+    "0.0-0.6": {
+      "n": 68,
+      "accuracy": 0.162
+    },
+    "0.6-0.8": {
+      "n": 2,
+      "accuracy": 0.5
+    },
+    "0.8-1.0": {
+      "n": 34,
+      "accuracy": 1.0
+    }
+  },
+  "median_seconds": 3.1,
+  "support": {
+    "conference": 37,
+    "journal": 40,
+    "arxiv": 27
+  }
+}

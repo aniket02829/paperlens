@@ -1,0 +1,441 @@
+id,url,expected_category,expected_venue,venue_key,expected_rank,expected_conference_type,sampled_on
+conf-2022.coling-1.524,https://aclanthology.org/2022.coling-1.524.pdf,conference,COLING 2022,COLING,B,International,2026-10-03
+conf-2022.coling-1.59,https://aclanthology.org/2022.coling-1.59.pdf,conference,COLING 2022,COLING,B,International,2026-10-03
+conf-2022.lrec-1.148,https://aclanthology.org/2022.lrec-1.148.pdf,conference,LREC 2022,LREC,B,International,2026-10-03
+conf-2022.lrec-1.503,https://aclanthology.org/2022.lrec-1.503.pdf,conference,LREC 2022,LREC,B,International,2026-10-03
+conf-2023.acl-long.29,https://aclanthology.org/2023.acl-long.29.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.6,https://aclanthology.org/2023.acl-long.6.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.625,https://aclanthology.org/2023.acl-long.625.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.conll-1.22,https://aclanthology.org/2023.conll-1.22.pdf,conference,CoNLL 2023,CoNLL,B,International,2026-10-03
+conf-2023.conll-1.3,https://aclanthology.org/2023.conll-1.3.pdf,conference,CoNLL 2023,CoNLL,B,International,2026-10-03
+conf-2023.emnlp-main.296,https://aclanthology.org/2023.emnlp-main.296.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.510,https://aclanthology.org/2023.emnlp-main.510.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.538,https://aclanthology.org/2023.emnlp-main.538.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.ranlp-1.114,https://aclanthology.org/2023.ranlp-1.114.pdf,conference,RANLP 2023,RANLP,National: bulgaria,National,2026-10-03
+conf-2023.ranlp-1.66,https://aclanthology.org/2023.ranlp-1.66.pdf,conference,RANLP 2023,RANLP,National: bulgaria,National,2026-10-03
+conf-2024.eacl-long.122,https://aclanthology.org/2024.eacl-long.122.pdf,conference,EACL 2024,EACL,A,International,2026-10-03
+conf-2024.eacl-long.97,https://aclanthology.org/2024.eacl-long.97.pdf,conference,EACL 2024,EACL,A,International,2026-10-03
+conf-2024.naacl-long.153,https://aclanthology.org/2024.naacl-long.153.pdf,conference,NAACL 2024,NAACL,A,International,2026-10-03
+conf-2024.naacl-long.265,https://aclanthology.org/2024.naacl-long.265.pdf,conference,NAACL 2024,NAACL,A,International,2026-10-03
+conf-CVPR2023-Khan_Q_How_To_Specialize_Large_Vision-La,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Liu_AdaptiveMix_Improving_GAN_Training_v,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Peng_Perception_and_Semantic_Aware_Regul,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-WACV2024-Barsellotti_FOSSIL_Free_Open-Vocabulary_,https://openaccess.thecvf.com/WACV2024,conference,WACV 2024,WACV,A,IEEE,2026-10-03
+conf-WACV2024-Reich_Differentiable_JPEG_The_Devil_Is_i,https://openaccess.thecvf.com/WACV2024,conference,WACV 2024,WACV,A,IEEE,2026-10-03
+conf-neurips2023-2f76a3a0f4,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-8393d955a0,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-d6d0e41e0b,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-pmlr-v195-cao23a,https://proceedings.mlr.press/v195/,conference,COLT 2023,COLT,A*,International,2026-10-03
+conf-pmlr-v195-diakonikolas23b,https://proceedings.mlr.press/v195/,conference,COLT 2023,COLT,A*,International,2026-10-03
+conf-pmlr-v202-bauer23a,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-kauvar23a,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-liu23o,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v206-belakaria23a,https://proceedings.mlr.press/v206/,conference,AISTATS 2023,AISTATS,A,International,2026-10-03
+conf-pmlr-v206-cong23a,https://proceedings.mlr.press/v206/,conference,AISTATS 2023,AISTATS,A,International,2026-10-03
+conf-pmlr-v216-hochsprung23a,https://proceedings.mlr.press/v216/,conference,UAI 2023,UAI,A,International,2026-10-03
+conf-pmlr-v216-padmanabhan23a,https://proceedings.mlr.press/v216/,conference,UAI 2023,UAI,A,International,2026-10-03
+conf-pmlr-v222-jiang24a,https://proceedings.mlr.press/v222/,conference,ACML 2023,ACML,C,International,2026-10-03
+conf-pmlr-v222-zhang24a,https://proceedings.mlr.press/v222/,conference,ACML 2023,ACML,C,International,2026-10-03
+journal-Q1-W3027237079,,journal,,,Q1,,2026-10-03
+journal-Q1-W3123775503,,journal,,,Q1,,2026-10-03
+journal-Q1-W3183615998,,journal,,,Q1,,2026-10-03
+journal-Q1-W3195459976,,journal,,,Q1,,2026-10-03
+journal-Q1-W4281259845,,journal,,,Q1,,2026-10-03
+journal-Q1-W4282016954,,journal,,,Q1,,2026-10-03
+journal-Q1-W4307807511,,journal,,,Q1,,2026-10-03
+journal-Q1-W4363679403,,journal,,,Q1,,2026-10-03
+journal-Q1-W4388488349,,journal,,,Q1,,2026-10-03
+journal-Q1-W4389737189,,journal,,,Q1,,2026-10-03
+journal-Q2-W3179164182,,journal,,,Q2,,2026-10-03
+journal-Q2-W3205137010,,journal,,,Q2,,2026-10-03
+journal-Q2-W4220772846,,journal,,,Q2,,2026-10-03
+journal-Q2-W4221134614,,journal,,,Q2,,2026-10-03
+journal-Q2-W4283719411,,journal,,,Q2,,2026-10-03
+journal-Q2-W4283770495,,journal,,,Q2,,2026-10-03
+journal-Q2-W4310869450,,journal,,,Q2,,2026-10-03
+journal-Q2-W4377093113,,journal,,,Q2,,2026-10-03
+journal-Q2-W4385348205,,journal,,,Q2,,2026-10-03
+journal-Q2-W4387197159,,journal,,,Q2,,2026-10-03
+journal-Q3-W3177469262,,journal,,,Q3,,2026-10-03
+journal-Q3-W3188216179,,journal,,,Q3,,2026-10-03
+journal-Q3-W3193670788,,journal,,,Q3,,2026-10-03
+journal-Q3-W4200189219,,journal,,,Q3,,2026-10-03
+journal-Q3-W4206809726,,journal,,,Q3,,2026-10-03
+journal-Q3-W4210380238,,journal,,,Q3,,2026-10-03
+journal-Q3-W4224305856,,journal,,,Q3,,2026-10-03
+journal-Q3-W4224306304,,journal,,,Q3,,2026-10-03
+journal-Q3-W4281626433,,journal,,,Q3,,2026-10-03
+journal-Q3-W4362578055,,journal,,,Q3,,2026-10-03
+journal-Q4-W3154665353,,journal,,,Q4,,2026-10-03
+journal-Q4-W3172358844,,journal,,,Q4,,2026-10-03
+journal-Q4-W3183676358,,journal,,,Q4,,2026-10-03
+journal-Q4-W3204708469,,journal,,,Q4,,2026-10-03
+journal-Q4-W4200611170,,journal,,,Q4,,2026-10-03
+journal-Q4-W4226142375,,journal,,,Q4,,2026-10-03
+journal-Q4-W4308881151,,journal,,,Q4,,2026-10-03
+journal-Q4-W4387489895,,journal,,,Q4,,2026-10-03
+journal-Q4-W4390900271,,journal,,,Q4,,2026-10-03
+journal-Q4-W4404526692,,journal,,,Q4,,2026-10-03
+arxiv-2610.02203,https://arxiv.org/pdf/2610.02203,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.02207,https://arxiv.org/pdf/2610.02207,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.02117,https://arxiv.org/pdf/2610.02117,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01702,https://arxiv.org/pdf/2610.01702,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01963,https://arxiv.org/pdf/2610.01963,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01688,https://arxiv.org/pdf/2610.01688,arxiv,arXiv,cs.CL,,,2026-10-03
+arxiv-2610.02051,https://arxiv.org/pdf/2610.02051,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.02205,https://arxiv.org/pdf/2610.02205,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.02208,https://arxiv.org/pdf/2610.02208,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01907,https://arxiv.org/pdf/2610.01907,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01872,https://arxiv.org/pdf/2610.01872,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01300,https://arxiv.org/pdf/2610.01300,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01795,https://arxiv.org/pdf/2610.01795,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01137,https://arxiv.org/pdf/2610.01137,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01273,https://arxiv.org/pdf/2610.01273,arxiv,arXiv,math.CO,,,2026-10-03
+arxiv-2609.37642,https://arxiv.org/pdf/2609.37642,arxiv,arXiv,,,,2026-10-03
+arxiv-2609.34864,https://arxiv.org/pdf/2609.34864,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01303,https://arxiv.org/pdf/2610.01303,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01706,https://arxiv.org/pdf/2610.01706,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.00747,https://arxiv.org/pdf/2610.00747,arxiv,arXiv,,,,2026-10-03
+arxiv-2609.39928,https://arxiv.org/pdf/2609.39928,arxiv,arXiv,,,,2026-10-03
+arxiv-2609.38459,https://arxiv.org/pdf/2609.38459,arxiv,arXiv,,,,2026-10-03
+arxiv-2609.31951,https://arxiv.org/pdf/2609.31951,arxiv,arXiv,,,,2026-10-03
+arxiv-2609.32476,https://arxiv.org/pdf/2609.32476,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01313,https://arxiv.org/pdf/2610.01313,arxiv,arXiv,,,,2026-10-03
+arxiv-2609.39742,https://arxiv.org/pdf/2609.39742,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.00766,https://arxiv.org/pdf/2610.00766,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01938,https://arxiv.org/pdf/2610.01938,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.01962,https://arxiv.org/pdf/2610.01962,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.02013,https://arxiv.org/pdf/2610.02013,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.02022,https://arxiv.org/pdf/2610.02022,arxiv,arXiv,cs.CL,,,2026-10-03
+arxiv-2610.02084,https://arxiv.org/pdf/2610.02084,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.02158,https://arxiv.org/pdf/2610.02158,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.02159,https://arxiv.org/pdf/2610.02159,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.02173,https://arxiv.org/pdf/2610.02173,arxiv,arXiv,,,,2026-10-03
+arxiv-2610.02198,https://arxiv.org/pdf/2610.02198,arxiv,arXiv,,,,2026-10-03
+conf-2021.ranlp-1.126,https://aclanthology.org/2021.ranlp-1.126.pdf,conference,RANLP 2021,RANLP,National: bulgaria,National,2026-10-03
+conf-2021.ranlp-1.59,https://aclanthology.org/2021.ranlp-1.59.pdf,conference,RANLP 2021,RANLP,National: bulgaria,National,2026-10-03
+conf-2021.ranlp-1.83,https://aclanthology.org/2021.ranlp-1.83.pdf,conference,RANLP 2021,RANLP,National: bulgaria,National,2026-10-03
+conf-2022.coling-1.1,https://aclanthology.org/2022.coling-1.1.pdf,conference,COLING 2022,COLING,B,International,2026-10-03
+conf-2022.coling-1.101,https://aclanthology.org/2022.coling-1.101.pdf,conference,COLING 2022,COLING,B,International,2026-10-03
+conf-2022.coling-1.127,https://aclanthology.org/2022.coling-1.127.pdf,conference,COLING 2022,COLING,B,International,2026-10-03
+conf-2022.coling-1.215,https://aclanthology.org/2022.coling-1.215.pdf,conference,COLING 2022,COLING,B,International,2026-10-03
+conf-2022.coling-1.42,https://aclanthology.org/2022.coling-1.42.pdf,conference,COLING 2022,COLING,B,International,2026-10-03
+conf-2022.coling-1.508,https://aclanthology.org/2022.coling-1.508.pdf,conference,COLING 2022,COLING,B,International,2026-10-03
+conf-2022.emnlp-main.223,https://aclanthology.org/2022.emnlp-main.223.pdf,conference,EMNLP 2022,EMNLP,A*,International,2026-10-03
+conf-2022.emnlp-main.261,https://aclanthology.org/2022.emnlp-main.261.pdf,conference,EMNLP 2022,EMNLP,A*,International,2026-10-03
+conf-2022.emnlp-main.625,https://aclanthology.org/2022.emnlp-main.625.pdf,conference,EMNLP 2022,EMNLP,A*,International,2026-10-03
+conf-2022.lrec-1.120,https://aclanthology.org/2022.lrec-1.120.pdf,conference,LREC 2022,LREC,B,International,2026-10-03
+conf-2022.lrec-1.339,https://aclanthology.org/2022.lrec-1.339.pdf,conference,LREC 2022,LREC,B,International,2026-10-03
+conf-2022.lrec-1.39,https://aclanthology.org/2022.lrec-1.39.pdf,conference,LREC 2022,LREC,B,International,2026-10-03
+conf-2022.lrec-1.544,https://aclanthology.org/2022.lrec-1.544.pdf,conference,LREC 2022,LREC,B,International,2026-10-03
+conf-2022.lrec-1.594,https://aclanthology.org/2022.lrec-1.594.pdf,conference,LREC 2022,LREC,B,International,2026-10-03
+conf-2022.lrec-1.695,https://aclanthology.org/2022.lrec-1.695.pdf,conference,LREC 2022,LREC,B,International,2026-10-03
+conf-2022.naacl-main.213,https://aclanthology.org/2022.naacl-main.213.pdf,conference,NAACL 2022,NAACL,A,International,2026-10-03
+conf-2022.naacl-main.298,https://aclanthology.org/2022.naacl-main.298.pdf,conference,NAACL 2022,NAACL,A,International,2026-10-03
+conf-2022.naacl-main.39,https://aclanthology.org/2022.naacl-main.39.pdf,conference,NAACL 2022,NAACL,A,International,2026-10-03
+conf-2023.acl-long.202,https://aclanthology.org/2023.acl-long.202.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.294,https://aclanthology.org/2023.acl-long.294.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.296,https://aclanthology.org/2023.acl-long.296.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.507,https://aclanthology.org/2023.acl-long.507.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.523,https://aclanthology.org/2023.acl-long.523.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.573,https://aclanthology.org/2023.acl-long.573.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.691,https://aclanthology.org/2023.acl-long.691.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.802,https://aclanthology.org/2023.acl-long.802.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.acl-long.84,https://aclanthology.org/2023.acl-long.84.pdf,conference,ACL 2023,ACL,A*,International,2026-10-03
+conf-2023.conll-1.10,https://aclanthology.org/2023.conll-1.10.pdf,conference,CoNLL 2023,CoNLL,B,International,2026-10-03
+conf-2023.conll-1.30,https://aclanthology.org/2023.conll-1.30.pdf,conference,CoNLL 2023,CoNLL,B,International,2026-10-03
+conf-2023.conll-1.36,https://aclanthology.org/2023.conll-1.36.pdf,conference,CoNLL 2023,CoNLL,B,International,2026-10-03
+conf-2023.conll-1.8,https://aclanthology.org/2023.conll-1.8.pdf,conference,CoNLL 2023,CoNLL,B,International,2026-10-03
+conf-2023.conll-1.9,https://aclanthology.org/2023.conll-1.9.pdf,conference,CoNLL 2023,CoNLL,B,International,2026-10-03
+conf-2023.eacl-main.104,https://aclanthology.org/2023.eacl-main.104.pdf,conference,EACL 2023,EACL,A,International,2026-10-03
+conf-2023.eacl-main.202,https://aclanthology.org/2023.eacl-main.202.pdf,conference,EACL 2023,EACL,A,International,2026-10-03
+conf-2023.eacl-main.3,https://aclanthology.org/2023.eacl-main.3.pdf,conference,EACL 2023,EACL,A,International,2026-10-03
+conf-2023.emnlp-main.111,https://aclanthology.org/2023.emnlp-main.111.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.12,https://aclanthology.org/2023.emnlp-main.12.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.120,https://aclanthology.org/2023.emnlp-main.120.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.241,https://aclanthology.org/2023.emnlp-main.241.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.264,https://aclanthology.org/2023.emnlp-main.264.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.33,https://aclanthology.org/2023.emnlp-main.33.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.473,https://aclanthology.org/2023.emnlp-main.473.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.590,https://aclanthology.org/2023.emnlp-main.590.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.759,https://aclanthology.org/2023.emnlp-main.759.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.emnlp-main.83,https://aclanthology.org/2023.emnlp-main.83.pdf,conference,EMNLP 2023,EMNLP,A*,International,2026-10-03
+conf-2023.ranlp-1.10,https://aclanthology.org/2023.ranlp-1.10.pdf,conference,RANLP 2023,RANLP,National: bulgaria,National,2026-10-03
+conf-2023.ranlp-1.110,https://aclanthology.org/2023.ranlp-1.110.pdf,conference,RANLP 2023,RANLP,National: bulgaria,National,2026-10-03
+conf-2023.ranlp-1.115,https://aclanthology.org/2023.ranlp-1.115.pdf,conference,RANLP 2023,RANLP,National: bulgaria,National,2026-10-03
+conf-2023.ranlp-1.19,https://aclanthology.org/2023.ranlp-1.19.pdf,conference,RANLP 2023,RANLP,National: bulgaria,National,2026-10-03
+conf-2023.ranlp-1.39,https://aclanthology.org/2023.ranlp-1.39.pdf,conference,RANLP 2023,RANLP,National: bulgaria,National,2026-10-03
+conf-2023.ranlp-1.70,https://aclanthology.org/2023.ranlp-1.70.pdf,conference,RANLP 2023,RANLP,National: bulgaria,National,2026-10-03
+conf-2024.acl-long.117,https://aclanthology.org/2024.acl-long.117.pdf,conference,ACL 2024,ACL,A*,International,2026-10-03
+conf-2024.acl-long.608,https://aclanthology.org/2024.acl-long.608.pdf,conference,ACL 2024,ACL,A*,International,2026-10-03
+conf-2024.acl-long.818,https://aclanthology.org/2024.acl-long.818.pdf,conference,ACL 2024,ACL,A*,International,2026-10-03
+conf-2024.eacl-long.100,https://aclanthology.org/2024.eacl-long.100.pdf,conference,EACL 2024,EACL,A,International,2026-10-03
+conf-2024.eacl-long.112,https://aclanthology.org/2024.eacl-long.112.pdf,conference,EACL 2024,EACL,A,International,2026-10-03
+conf-2024.eacl-long.17,https://aclanthology.org/2024.eacl-long.17.pdf,conference,EACL 2024,EACL,A,International,2026-10-03
+conf-2024.eacl-long.32,https://aclanthology.org/2024.eacl-long.32.pdf,conference,EACL 2024,EACL,A,International,2026-10-03
+conf-2024.eacl-long.47,https://aclanthology.org/2024.eacl-long.47.pdf,conference,EACL 2024,EACL,A,International,2026-10-03
+conf-2024.eacl-long.70,https://aclanthology.org/2024.eacl-long.70.pdf,conference,EACL 2024,EACL,A,International,2026-10-03
+conf-2024.lrec-main.1269,https://aclanthology.org/2024.lrec-main.1269.pdf,conference,LREC-COLING 2024,LREC,B,International,2026-10-03
+conf-2024.lrec-main.133,https://aclanthology.org/2024.lrec-main.133.pdf,conference,LREC-COLING 2024,LREC,B,International,2026-10-03
+conf-2024.lrec-main.236,https://aclanthology.org/2024.lrec-main.236.pdf,conference,LREC-COLING 2024,LREC,B,International,2026-10-03
+conf-2024.naacl-long.109,https://aclanthology.org/2024.naacl-long.109.pdf,conference,NAACL 2024,NAACL,A,International,2026-10-03
+conf-2024.naacl-long.332,https://aclanthology.org/2024.naacl-long.332.pdf,conference,NAACL 2024,NAACL,A,International,2026-10-03
+conf-2024.naacl-long.375,https://aclanthology.org/2024.naacl-long.375.pdf,conference,NAACL 2024,NAACL,A,International,2026-10-03
+conf-2024.naacl-long.66,https://aclanthology.org/2024.naacl-long.66.pdf,conference,NAACL 2024,NAACL,A,International,2026-10-03
+conf-2024.naacl-long.69,https://aclanthology.org/2024.naacl-long.69.pdf,conference,NAACL 2024,NAACL,A,International,2026-10-03
+conf-2024.naacl-long.86,https://aclanthology.org/2024.naacl-long.86.pdf,conference,NAACL 2024,NAACL,A,International,2026-10-03
+conf-CVPR2023-Cermelli_CoMFormer_Continual_Learning_in,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Ding_Exploring_Structured_Semantic_Prior,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Liu_PolyFormer_Referring_Image_Segmentat,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Liu_Reducing_the_Label_Bias_for_Timestam,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Pediredla_Megahertz_Light_Steering_Witho,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Trosten_Hubs_and_Hyperspheres_Reducing_H,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Wang_Learning_Transformation-Predictive_,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Wang_NeuWigs_A_Neural_Dynamic_Model_for_,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2023-Zhang_Prototypical_Residual_Networks_for,https://openaccess.thecvf.com/CVPR2023,conference,CVPR 2023,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2024-Ma_MaskINT_Video_Editing_via_Interpolati,https://openaccess.thecvf.com/CVPR2024,conference,CVPR 2024,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2024-Schardong_Neural_Implicit_Morphing_of_Fa,https://openaccess.thecvf.com/CVPR2024,conference,CVPR 2024,CVPR,A*,IEEE,2026-10-03
+conf-CVPR2024-Xu_Enhancing_Video_Super-Resolution_via_,https://openaccess.thecvf.com/CVPR2024,conference,CVPR 2024,CVPR,A*,IEEE,2026-10-03
+conf-ICCV2023-Aberdam_CLIPTER_Looking_at_the_Bigger_Pi,https://openaccess.thecvf.com/ICCV2023,conference,ICCV 2023,ICCV,A*,IEEE,2026-10-03
+conf-ICCV2023-Guo_Controllable_Guide-Space_for_General,https://openaccess.thecvf.com/ICCV2023,conference,ICCV 2023,ICCV,A*,IEEE,2026-10-03
+conf-ICCV2023-Yu_FreeDoM_Training-Free_Energy-Guided_C,https://openaccess.thecvf.com/ICCV2023,conference,ICCV 2023,ICCV,A*,IEEE,2026-10-03
+conf-WACV2023-Chen_SSSD_Self-Supervised_Self_Distillat,https://openaccess.thecvf.com/WACV2023,conference,WACV 2023,WACV,A,IEEE,2026-10-03
+conf-WACV2023-Kaya_Multi-View_Photometric_Stereo_Revis,https://openaccess.thecvf.com/WACV2023,conference,WACV 2023,WACV,A,IEEE,2026-10-03
+conf-WACV2023-Yim_Style-Guided_Inference_of_Transforme,https://openaccess.thecvf.com/WACV2023,conference,WACV 2023,WACV,A,IEEE,2026-10-03
+conf-WACV2024-Fujii_Automated_Sperm_Assessment_Framewo,https://openaccess.thecvf.com/WACV2024,conference,WACV 2024,WACV,A,IEEE,2026-10-03
+conf-WACV2024-Hong_Robust_Eye_Blink_Detection_Using_Du,https://openaccess.thecvf.com/WACV2024,conference,WACV 2024,WACV,A,IEEE,2026-10-03
+conf-WACV2024-Islam_Visually_Guided_Audio_Source_Separ,https://openaccess.thecvf.com/WACV2024,conference,WACV 2024,WACV,A,IEEE,2026-10-03
+conf-WACV2024-Nayman_Diverse_Imagenet_Models_Transfer_,https://openaccess.thecvf.com/WACV2024,conference,WACV 2024,WACV,A,IEEE,2026-10-03
+conf-WACV2024-Nguyen_Diffusion_in_the_Dark_A_Diffusion,https://openaccess.thecvf.com/WACV2024,conference,WACV 2024,WACV,A,IEEE,2026-10-03
+conf-WACV2024-Sastry_BirdSAT_Cross-View_Contrastive_Ma,https://openaccess.thecvf.com/WACV2024,conference,WACV 2024,WACV,A,IEEE,2026-10-03
+conf-neurips2022-3469b211b8,https://proceedings.neurips.cc/paper_files/paper/2022,conference,NeurIPS 2022,NeurIPS,A*,International,2026-10-03
+conf-neurips2022-b5fd95d6b1,https://proceedings.neurips.cc/paper_files/paper/2022,conference,NeurIPS 2022,NeurIPS,A*,International,2026-10-03
+conf-neurips2022-de1739eba2,https://proceedings.neurips.cc/paper_files/paper/2022,conference,NeurIPS 2022,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-0747af6f87,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-43e8fd8b95,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-58a799d16f,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-854b6ec839,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-9d3a4cdf6f,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-c43b987f23,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-cda04d7ea6,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-d2fe3a5711,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-neurips2023-d37c9ad425,https://proceedings.neurips.cc/paper_files/paper/2023,conference,NeurIPS 2023,NeurIPS,A*,International,2026-10-03
+conf-pmlr-v195-agarwal23b,https://proceedings.mlr.press/v195/,conference,COLT 2023,COLT,A*,International,2026-10-03
+conf-pmlr-v195-allen-zhu23a,https://proceedings.mlr.press/v195/,conference,COLT 2023,COLT,A*,International,2026-10-03
+conf-pmlr-v195-ardeshir23a,https://proceedings.mlr.press/v195/,conference,COLT 2023,COLT,A*,International,2026-10-03
+conf-pmlr-v195-kelner23a,https://proceedings.mlr.press/v195/,conference,COLT 2023,COLT,A*,International,2026-10-03
+conf-pmlr-v195-kothari23a,https://proceedings.mlr.press/v195/,conference,COLT 2023,COLT,A*,International,2026-10-03
+conf-pmlr-v195-potechin23a,https://proceedings.mlr.press/v195/,conference,COLT 2023,COLT,A*,International,2026-10-03
+conf-pmlr-v201-ashtiani23a,https://proceedings.mlr.press/v201/,conference,ALT 2023,ALT,B,International,2026-10-03
+conf-pmlr-v201-simon23a,https://proceedings.mlr.press/v201/,conference,ALT 2023,ALT,B,International,2026-10-03
+conf-pmlr-v201-tsuchiya23a,https://proceedings.mlr.press/v201/,conference,ALT 2023,ALT,B,International,2026-10-03
+conf-pmlr-v202-boehmer23a,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-kujanpaa23a,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-liu23t,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-marcotte23a,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-miconi23a,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-ohana23a,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-ruan23a,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-shi23b,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v202-siahkoohi23a,https://proceedings.mlr.press/v202/,conference,ICML 2023,ICML,A*,International,2026-10-03
+conf-pmlr-v206-behnia23a,https://proceedings.mlr.press/v206/,conference,AISTATS 2023,AISTATS,A,International,2026-10-03
+conf-pmlr-v206-ma23a,https://proceedings.mlr.press/v206/,conference,AISTATS 2023,AISTATS,A,International,2026-10-03
+conf-pmlr-v206-mondal23a,https://proceedings.mlr.press/v206/,conference,AISTATS 2023,AISTATS,A,International,2026-10-03
+conf-pmlr-v206-presman23a,https://proceedings.mlr.press/v206/,conference,AISTATS 2023,AISTATS,A,International,2026-10-03
+conf-pmlr-v206-wang23f,https://proceedings.mlr.press/v206/,conference,AISTATS 2023,AISTATS,A,International,2026-10-03
+conf-pmlr-v206-yang23d,https://proceedings.mlr.press/v206/,conference,AISTATS 2023,AISTATS,A,International,2026-10-03
+conf-pmlr-v216-chen23b,https://proceedings.mlr.press/v216/,conference,UAI 2023,UAI,A,International,2026-10-03
+conf-pmlr-v216-chen23g,https://proceedings.mlr.press/v216/,conference,UAI 2023,UAI,A,International,2026-10-03
+conf-pmlr-v216-lanners23a,https://proceedings.mlr.press/v216/,conference,UAI 2023,UAI,A,International,2026-10-03
+conf-pmlr-v216-leemann23a,https://proceedings.mlr.press/v216/,conference,UAI 2023,UAI,A,International,2026-10-03
+conf-pmlr-v216-liu23c,https://proceedings.mlr.press/v216/,conference,UAI 2023,UAI,A,International,2026-10-03
+conf-pmlr-v216-yang23a,https://proceedings.mlr.press/v216/,conference,UAI 2023,UAI,A,International,2026-10-03
+conf-pmlr-v222-ding24a,https://proceedings.mlr.press/v222/,conference,ACML 2023,ACML,C,International,2026-10-03
+conf-pmlr-v222-li24b,https://proceedings.mlr.press/v222/,conference,ACML 2023,ACML,C,International,2026-10-03
+conf-pmlr-v222-ma24a,https://proceedings.mlr.press/v222/,conference,ACML 2023,ACML,C,International,2026-10-03
+conf-pmlr-v222-matsumoto24a,https://proceedings.mlr.press/v222/,conference,ACML 2023,ACML,C,International,2026-10-03
+conf-pmlr-v222-qin24a,https://proceedings.mlr.press/v222/,conference,ACML 2023,ACML,C,International,2026-10-03
+conf-pmlr-v222-wang24c,https://proceedings.mlr.press/v222/,conference,ACML 2023,ACML,C,International,2026-10-03
+conf-pmlr-v238-el-ahmad24a,https://proceedings.mlr.press/v238/,conference,AISTATS 2024,AISTATS,A,International,2026-10-03
+conf-pmlr-v238-kumar-krishnamurthy24a,https://proceedings.mlr.press/v238/,conference,AISTATS 2024,AISTATS,A,International,2026-10-03
+conf-pmlr-v238-zhao24d,https://proceedings.mlr.press/v238/,conference,AISTATS 2024,AISTATS,A,International,2026-10-03
+journal-Q1-10_1007_s40243_023_00242_7,,journal,,,Q1,,2026-10-03
+journal-Q1-10_1007_s40979_022_00113_0,,journal,,,Q1,,2026-10-03
+journal-Q1-10_1016_j_ijepes_2021_107882,,journal,,,Q1,,2026-10-03
+journal-Q1-10_1017_wtc_2024_1,,journal,,,Q1,,2026-10-03
+journal-Q1-10_1109_jmw_2023_3342951,,journal,,,Q1,,2026-10-03
+journal-Q1-10_1128_jcm_01233_23,,journal,,,Q1,,2026-10-03
+journal-Q1-10_1140_epjc_s10052_021_09919_7,,journal,,,Q1,,2026-10-03
+journal-Q1-10_1186_s13395_024_00350_6,,journal,,,Q1,,2026-10-03
+journal-Q1-10_1186_s40100_024_00330_w,,journal,,,Q1,,2026-10-03
+journal-Q1-10_1186_s40249_023_01103_1,,journal,,,Q1,,2026-10-03
+journal-Q1-10_1186_s41239_021_00297_4,,journal,,,Q1,,2026-10-03
+journal-Q1-10_12795_araucaria_2023_i53_09,,journal,,,Q1,,2026-10-03
+journal-Q1-10_15848_hh_v16i41_2106,,journal,,,Q1,,2026-10-03
+journal-Q1-10_18433_jpps32892,,journal,,,Q1,,2026-10-03
+journal-Q1-10_18608_jla_2022_7427,,journal,,,Q1,,2026-10-03
+journal-Q1-10_18637_jss_v107_i02,,journal,,,Q1,,2026-10-03
+journal-Q1-10_21825_digest_81851,,journal,,,Q1,,2026-10-03
+journal-Q1-10_22162_2500_1523_2024_3_577_590,,journal,,,Q1,,2026-10-03
+journal-Q1-10_22215_timreview_1419,,journal,,,Q1,,2026-10-03
+journal-Q1-10_2478_johh_2021_0013,,journal,,,Q1,,2026-10-03
+journal-Q1-10_26650_artsanat_2022_18_1004283,,journal,,,Q1,,2026-10-03
+journal-Q1-10_31992_0869_3617_2021_30_2_100_111,,journal,,,Q1,,2026-10-03
+journal-Q1-10_3389_fphar_2022_1016004,,journal,,,Q1,,2026-10-03
+journal-Q1-10_4171_jems_1405,,journal,,,Q1,,2026-10-03
+journal-Q1-10_48130_vegres_0024_0010,,journal,,,Q1,,2026-10-03
+journal-Q1-10_5334_jime_784,,journal,,,Q1,,2026-10-03
+journal-Q1-10_5771_2192_4007_2022_1_98,,journal,,,Q1,,2026-10-03
+journal-Q1-10_5943_mycosphere_14_1_27,,journal,,,Q1,,2026-10-03
+journal-Q1-10_5944_hme_16_2022_33461,,journal,,,Q1,,2026-10-03
+journal-Q1-W4210357903,,journal,,,Q1,,2026-10-03
+journal-Q2-10_1007_s11038_024_09557_5,,journal,,,Q2,,2026-10-03
+journal-Q2-10_1007_s41513_024_00250_0,,journal,,,Q2,,2026-10-03
+journal-Q2-10_1007_s43034_022_00178_5,,journal,,,Q2,,2026-10-03
+journal-Q2-10_11610_connections_23_2_07,,journal,,,Q2,,2026-10-03
+journal-Q2-10_1186_s12919_023_00251_4,,journal,,,Q2,,2026-10-03
+journal-Q2-10_12797_cis_23_2021_02_04,,journal,,,Q2,,2026-10-03
+journal-Q2-10_14195_2183_1718_82_9,,journal,,,Q2,,2026-10-03
+journal-Q2-10_14746_i_2021_38_05,,journal,,,Q2,,2026-10-03
+journal-Q2-10_15627_jd_2022_2,,journal,,,Q2,,2026-10-03
+journal-Q2-10_20411_pai_v6i1_422,,journal,,,Q2,,2026-10-03
+journal-Q2-10_20473_ydk_v36i3_25075,,journal,,,Q2,,2026-10-03
+journal-Q2-10_21775_cimb_041_171,,journal,,,Q2,,2026-10-03
+journal-Q2-10_31083_j_fbe1604038,,journal,,,Q2,,2026-10-03
+journal-Q2-10_31661_jbpe_v0i0_2206_1507,,journal,,,Q2,,2026-10-03
+journal-Q2-10_32674_jis_v14i1_5098,,journal,,,Q2,,2026-10-03
+journal-Q2-10_32995_rev180_num_52_2023_art_1090,,journal,,,Q2,,2026-10-03
+journal-Q2-10_3389_fmech_2024_1400888,,journal,,,Q2,,2026-10-03
+journal-Q2-10_3389_frans_2022_846102,,journal,,,Q2,,2026-10-03
+journal-Q2-10_3389_fviro_2022_923018,,journal,,,Q2,,2026-10-03
+journal-Q2-10_34172_japid_2023_017,,journal,,,Q2,,2026-10-03
+journal-Q2-10_3857_roj_2023_00521,,journal,,,Q2,,2026-10-03
+journal-Q2-10_3986_pkn_v47_i3_02,,journal,,,Q2,,2026-10-03
+journal-Q2-10_3986_sms20212405,,journal,,,Q2,,2026-10-03
+journal-Q2-10_51694_advweedsci_2023_41_00013,,journal,,,Q2,,2026-10-03
+journal-Q2-10_5267_j_ijiec_2023_1_003,,journal,,,Q2,,2026-10-03
+journal-Q2-10_5469_neuroint_2021_00017,,journal,,,Q2,,2026-10-03
+journal-Q2-10_5572_ajae_2021_036,,journal,,,Q2,,2026-10-03
+journal-Q2-10_5603_fhc_a2021_0010,,journal,,,Q2,,2026-10-03
+journal-Q2-10_56040_sswm2120,,journal,,,Q2,,2026-10-03
+journal-Q2-10_5709_ce_1897_9254_514,,journal,,,Q2,,2026-10-03
+journal-Q3-10_1297_cpe_2022_0077,,journal,,,Q3,,2026-10-03
+journal-Q3-10_14313_jamris_3_2022_19,,journal,,,Q3,,2026-10-03
+journal-Q3-10_15507_2079_6900_24_202202_215_227,,journal,,,Q3,,2026-10-03
+journal-Q3-10_15666_aeer_1905_39914006,,journal,,,Q3,,2026-10-03
+journal-Q3-10_1590_0004_282x_anp_2020_0362,,journal,,,Q3,,2026-10-03
+journal-Q3-10_17973_mmsj_2021_11_2021098,,journal,,,Q3,,2026-10-03
+journal-Q3-10_18585_inabj_v13i3_1616,,journal,,,Q3,,2026-10-03
+journal-Q3-10_21031_epod_787865,,journal,,,Q3,,2026-10-03
+journal-Q3-10_22429_euc2023_sep_06_00,,journal,,,Q3,,2026-10-03
+journal-Q3-10_2305_ucn_ch_2022_parks_21_1bp_en,,journal,,,Q3,,2026-10-03
+journal-Q3-10_24241_rcai_2024_137_2_89,,journal,,,Q3,,2026-10-03
+journal-Q3-10_25041_aelr_v2i2_2326,,journal,,,Q3,,2026-10-03
+journal-Q3-10_25259_jcis_122_2023,,journal,,,Q3,,2026-10-03
+journal-Q3-10_29173_cjnser617,,journal,,,Q3,,2026-10-03
+journal-Q3-10_31431_1816_5524_2023_1_57_89_103,,journal,,,Q3,,2026-10-03
+journal-Q3-10_31718_2409_0255_4_2021_05,,journal,,,Q3,,2026-10-03
+journal-Q3-10_3176_earth_2023_28,,journal,,,Q3,,2026-10-03
+journal-Q3-10_3389_fruro_2024_1278688,,journal,,,Q3,,2026-10-03
+journal-Q3-10_3941_jrcr_5330,,journal,,,Q3,,2026-10-03
+journal-Q3-10_46488_nept_2021_v20i05_002,,journal,,,Q3,,2026-10-03
+journal-Q3-10_54103_2036_461x_24071,,journal,,,Q3,,2026-10-03
+journal-Q3-10_55230_mabjournal_v49i2_1515,,journal,,,Q3,,2026-10-03
+journal-Q3-10_5565_rev_athenea_3368,,journal,,,Q3,,2026-10-03
+journal-Q3-10_55782_ane_2024_2544,,journal,,,Q3,,2026-10-03
+journal-Q3-10_56082_annalsarscimath_2023_1_2_205,,journal,,,Q3,,2026-10-03
+journal-Q3-10_5708_ejmh_19_2024_0030,,journal,,,Q3,,2026-10-03
+journal-Q3-10_5761_atcs_oa_22_00150,,journal,,,Q3,,2026-10-03
+journal-Q3-10_58346_jowua_2024_i3_008,,journal,,,Q3,,2026-10-03
+journal-Q3-10_59490_footprint_16_1_5852,,journal,,,Q3,,2026-10-03
+journal-Q3-10_7455_ijfs_13_1_2024_a9,,journal,,,Q3,,2026-10-03
+journal-Q4-10_1273_cbij_21_11,,journal,,,Q4,,2026-10-03
+journal-Q4-10_1344_svmma2021_18_3,,journal,,,Q4,,2026-10-03
+journal-Q4-10_14712_30296374_2024_6,,journal,,,Q4,,2026-10-03
+journal-Q4-10_14746_ppuam_2021_12_09,,journal,,,Q4,,2026-10-03
+journal-Q4-10_1590_0103_6351_6255,,journal,,,Q4,,2026-10-03
+journal-Q4-10_1590_1415_4714_e220425,,journal,,,Q4,,2026-10-03
+journal-Q4-10_1590_1807_2577_02523,,journal,,,Q4,,2026-10-03
+journal-Q4-10_1590_1809_44142021003004,,journal,,,Q4,,2026-10-03
+journal-Q4-10_17223_20710410_62_2,,journal,,,Q4,,2026-10-03
+journal-Q4-10_17533_udea_iatreia_180,,journal,,,Q4,,2026-10-03
+journal-Q4-10_20473_ijph_v16i2_2021_253_263,,journal,,,Q4,,2026-10-03
+journal-Q4-10_20473_jkl_v15i1_2023_67_75,,journal,,,Q4,,2026-10-03
+journal-Q4-10_2320_jinstmet_j2021020,,journal,,,Q4,,2026-10-03
+journal-Q4-10_23865_up_v18_6305,,journal,,,Q4,,2026-10-03
+journal-Q4-10_2478_subbs_2024_0002,,journal,,,Q4,,2026-10-03
+journal-Q4-10_24875_rechog_m21000010,,journal,,,Q4,,2026-10-03
+journal-Q4-10_29327_253484_1_39_15,,journal,,,Q4,,2026-10-03
+journal-Q4-10_30687_mdccc_2280_8841_2024_01_002,,journal,,,Q4,,2026-10-03
+journal-Q4-10_32725_cetv_2022_005,,journal,,,Q4,,2026-10-03
+journal-Q4-10_37190_oa230204,,journal,,,Q4,,2026-10-03
+journal-Q4-10_4274_vhd_galenos_2023_2023_5_1,,journal,,,Q4,,2026-10-03
+journal-Q4-10_47196_diab_v56i3sup_529,,journal,,,Q4,,2026-10-03
+journal-Q4-10_52080_rvgluz_27_95_24,,journal,,,Q4,,2026-10-03
+journal-Q4-10_5380_raega_v51i0_70724,,journal,,,Q4,,2026-10-03
+journal-Q4-10_5380_rf_v51i4_73576,,journal,,,Q4,,2026-10-03
+journal-Q4-10_57182_jbiopestic_14_1_50_58,,journal,,,Q4,,2026-10-03
+journal-Q4-10_61596_rig_v106i2_16117,,journal,,,Q4,,2026-10-03
+journal-Q4-10_62425_rses_1480170,,journal,,,Q4,,2026-10-03
+journal-Q4-10_7216_teksmuh_1365898,,journal,,,Q4,,2026-10-03
+journal-Q4-10_7365_jhpor_2023_1_2,,journal,,,Q4,,2026-10-03
+arxiv-2610.02015,https://arxiv.org/pdf/2610.02015,arxiv,arXiv,cs.LG,,,2026-10-03
+arxiv-2610.02193,https://arxiv.org/pdf/2610.02193,arxiv,arXiv,cs.LG,,,2026-10-03
+arxiv-2610.02131,https://arxiv.org/pdf/2610.02131,arxiv,arXiv,cs.LG,,,2026-10-03
+arxiv-2610.02040,https://arxiv.org/pdf/2610.02040,arxiv,arXiv,cs.CL,,,2026-10-03
+arxiv-2610.02123,https://arxiv.org/pdf/2610.02123,arxiv,arXiv,cs.CV,,,2026-10-03
+arxiv-2610.02188,https://arxiv.org/pdf/2610.02188,arxiv,arXiv,cs.CV,,,2026-10-03
+arxiv-2610.02197,https://arxiv.org/pdf/2610.02197,arxiv,arXiv,cs.CV,,,2026-10-03
+arxiv-2610.01294,https://arxiv.org/pdf/2610.01294,arxiv,arXiv,cs.CR,,,2026-10-03
+arxiv-2610.01367,https://arxiv.org/pdf/2610.01367,arxiv,arXiv,cs.CR,,,2026-10-03
+arxiv-2610.01263,https://arxiv.org/pdf/2610.01263,arxiv,arXiv,cs.CR,,,2026-10-03
+arxiv-2610.01900,https://arxiv.org/pdf/2610.01900,arxiv,arXiv,math.CO,,,2026-10-03
+arxiv-2610.01946,https://arxiv.org/pdf/2610.01946,arxiv,arXiv,math.CO,,,2026-10-03
+arxiv-2609.36097,https://arxiv.org/pdf/2609.36097,arxiv,arXiv,q-bio.NC,,,2026-10-03
+arxiv-2610.00990,https://arxiv.org/pdf/2610.00990,arxiv,arXiv,q-bio.NC,,,2026-10-03
+arxiv-2610.01786,https://arxiv.org/pdf/2610.01786,arxiv,arXiv,q-bio.NC,,,2026-10-03
+arxiv-2610.01575,https://arxiv.org/pdf/2610.01575,arxiv,arXiv,physics.optics,,,2026-10-03
+arxiv-2610.01374,https://arxiv.org/pdf/2610.01374,arxiv,arXiv,physics.optics,,,2026-10-03
+arxiv-2610.01057,https://arxiv.org/pdf/2610.01057,arxiv,arXiv,physics.optics,,,2026-10-03
+arxiv-2609.33064,https://arxiv.org/pdf/2609.33064,arxiv,arXiv,econ.GN,,,2026-10-03
+arxiv-2609.36349,https://arxiv.org/pdf/2609.36349,arxiv,arXiv,econ.GN,,,2026-10-03
+arxiv-2609.31512,https://arxiv.org/pdf/2609.31512,arxiv,arXiv,econ.GN,,,2026-10-03
+arxiv-2610.02041,https://arxiv.org/pdf/2610.02041,arxiv,arXiv,stat.ME,,,2026-10-03
+arxiv-2610.00993,https://arxiv.org/pdf/2610.00993,arxiv,arXiv,stat.ME,,,2026-10-03
+arxiv-2610.01044,https://arxiv.org/pdf/2610.01044,arxiv,arXiv,stat.ME,,,2026-10-03
+arxiv-2609.39678,https://arxiv.org/pdf/2609.39678,arxiv,arXiv,cs.SE,,,2026-10-03
+arxiv-2609.38983,https://arxiv.org/pdf/2609.38983,arxiv,arXiv,cs.SE,,,2026-10-03
+arxiv-2610.01023,https://arxiv.org/pdf/2610.01023,arxiv,arXiv,cs.SE,,,2026-10-03
+arxiv-2610.01744,https://arxiv.org/pdf/2610.01744,arxiv,arXiv,cs.RO,,,2026-10-03
+arxiv-2610.02089,https://arxiv.org/pdf/2610.02089,arxiv,arXiv,cs.RO,,,2026-10-03
+arxiv-2610.01397,https://arxiv.org/pdf/2610.01397,arxiv,arXiv,cs.RO,,,2026-10-03
+arxiv-2610.01322,https://arxiv.org/pdf/2610.01322,arxiv,arXiv,stat.ML,,,2026-10-03
+arxiv-2610.00755,https://arxiv.org/pdf/2610.00755,arxiv,arXiv,stat.ML,,,2026-10-03
+arxiv-2610.01527,https://arxiv.org/pdf/2610.01527,arxiv,arXiv,stat.ML,,,2026-10-03
+arxiv-2610.01214,https://arxiv.org/pdf/2610.01214,arxiv,arXiv,astro-ph.GA,,,2026-10-03
+arxiv-2610.01400,https://arxiv.org/pdf/2610.01400,arxiv,arXiv,astro-ph.GA,,,2026-10-03
+arxiv-2609.39977,https://arxiv.org/pdf/2609.39977,arxiv,arXiv,astro-ph.GA,,,2026-10-03
+arxiv-2610.00537,https://arxiv.org/pdf/2610.00537,arxiv,arXiv,cond-mat.mtrl-sci,,,2026-10-03
+arxiv-2610.01290,https://arxiv.org/pdf/2610.01290,arxiv,arXiv,cond-mat.mtrl-sci,,,2026-10-03
+arxiv-2610.00585,https://arxiv.org/pdf/2610.00585,arxiv,arXiv,cond-mat.mtrl-sci,,,2026-10-03
+arxiv-2610.02107,https://arxiv.org/pdf/2610.02107,arxiv,arXiv,hep-th,,,2026-10-03
+arxiv-2610.00482,https://arxiv.org/pdf/2610.00482,arxiv,arXiv,hep-th,,,2026-10-03
+arxiv-2610.01101,https://arxiv.org/pdf/2610.01101,arxiv,arXiv,hep-th,,,2026-10-03
+arxiv-2610.01928,https://arxiv.org/pdf/2610.01928,arxiv,arXiv,math.AP,,,2026-10-03
+arxiv-2610.01875,https://arxiv.org/pdf/2610.01875,arxiv,arXiv,math.AP,,,2026-10-03
+arxiv-2610.02077,https://arxiv.org/pdf/2610.02077,arxiv,arXiv,math.AP,,,2026-10-03
+arxiv-2609.22639,https://arxiv.org/pdf/2609.22639,arxiv,arXiv,q-fin.ST,,,2026-10-03
+arxiv-2609.35359,https://arxiv.org/pdf/2609.35359,arxiv,arXiv,q-fin.ST,,,2026-10-03
+arxiv-2609.04420,https://arxiv.org/pdf/2609.04420,arxiv,arXiv,q-fin.ST,,,2026-10-03
+arxiv-2610.00783,https://arxiv.org/pdf/2610.00783,arxiv,arXiv,eess.SP,,,2026-10-03
+arxiv-2610.01474,https://arxiv.org/pdf/2610.01474,arxiv,arXiv,eess.SP,,,2026-10-03
+arxiv-2610.01059,https://arxiv.org/pdf/2610.01059,arxiv,arXiv,eess.SP,,,2026-10-03
+arxiv-2609.26939,https://arxiv.org/pdf/2609.26939,arxiv,arXiv,physics.med-ph,,,2026-10-03
+arxiv-2609.36339,https://arxiv.org/pdf/2609.36339,arxiv,arXiv,physics.med-ph,,,2026-10-03
+arxiv-2609.30169,https://arxiv.org/pdf/2609.30169,arxiv,arXiv,physics.med-ph,,,2026-10-03
+arxiv-2609.39988,https://arxiv.org/pdf/2609.39988,arxiv,arXiv,gr-qc,,,2026-10-03
+arxiv-2609.39729,https://arxiv.org/pdf/2609.39729,arxiv,arXiv,gr-qc,,,2026-10-03
+arxiv-2609.39694,https://arxiv.org/pdf/2609.39694,arxiv,arXiv,gr-qc,,,2026-10-03
+arxiv-2609.18372,https://arxiv.org/pdf/2609.18372,arxiv,arXiv,q-bio.GN,,,2026-10-03
+arxiv-2609.08165,https://arxiv.org/pdf/2609.08165,arxiv,arXiv,q-bio.GN,,,2026-10-03
+arxiv-2609.35883,https://arxiv.org/pdf/2609.35883,arxiv,arXiv,q-bio.GN,,,2026-10-03

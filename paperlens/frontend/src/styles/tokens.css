@@ -1,0 +1,87 @@
+/* PaperLens design tokens. Colours are space-separated RGB so Tailwind can add opacity.
+ * Palette: scholarly navy + citation gold on slate (ui-ux-pro-max, "academic research").
+ * Every text/background pairing below meets WCAG AA (4.5:1) in both themes.
+ */
+:root {
+  --bg: 248 250 252;            /* slate-50 */
+  --surface: 255 255 255;
+  --surface-2: 241 245 249;     /* slate-100 */
+  --border: 226 232 240;        /* slate-200 */
+  --border-strong: 100 116 139; /* slate-500, form borders (4.8:1, above the 3:1 needed) */
+  --fg: 15 23 42;               /* slate-900 */
+  --muted: 71 85 105;           /* slate-600, 7.6:1 on white */
+
+  --primary: 30 58 95;          /* #1E3A5F scholarly navy */
+  --primary-hover: 23 45 75;
+  --on-primary: 255 255 255;
+  --primary-soft: 232 239 248;
+  --primary-text: 30 58 95;
+  --ring: 37 99 235;
+
+  --accent: 180 83 9;           /* #B45309 citation gold */
+  --accent-soft: 254 243 199;
+
+  --journal: 30 64 175;   --journal-soft: 219 234 254;
+  --conference: 109 40 217; --conference-soft: 237 233 254;
+  --preprint: 146 64 14;  --preprint-soft: 254 243 199;
+
+  --q1: 6 95 70;   --q1-soft: 209 250 229;
+  --q2: 30 64 175; --q2-soft: 219 234 254;
+  --q3: 146 64 14; --q3-soft: 254 243 199;
+  --q4: 153 27 27; --q4-soft: 254 226 226;
+
+  --success: 4 120 87;  --success-soft: 209 250 229;
+  --warning: 146 64 14; --warning-soft: 254 243 199;
+  --danger: 185 28 28;  --danger-soft: 254 226 226;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+
+  --shadow-sm: 0 1px 2px rgb(15 23 42 / 0.06);
+  --shadow-md: 0 1px 2px rgb(15 23 42 / 0.05), 0 4px 12px rgb(15 23 42 / 0.06);
+  --shadow-lg: 0 2px 4px rgb(15 23 42 / 0.05), 0 12px 32px rgb(15 23 42 / 0.10);
+
+  --duration-fast: 150ms;
+  --duration-base: 250ms;
+  color-scheme: light;
+}
+
+.dark {
+  --bg: 9 14 26;
+  --surface: 17 25 41;
+  --surface-2: 24 34 54;
+  --border: 39 52 76;
+  --border-strong: 100 116 139;
+  --fg: 236 241 248;
+  --muted: 163 176 196;         /* 7.9:1 on surface */
+
+  --primary: 59 105 168;        /* button background, white text 5.6:1 */
+  --primary-hover: 50 92 150;
+  --on-primary: 255 255 255;
+  --primary-soft: 28 44 72;
+  --primary-text: 147 187 240;  /* links/headings on dark surfaces */
+  --ring: 147 187 240;
+
+  --accent: 242 180 107;
+  --accent-soft: 66 44 16;
+
+  --journal: 147 187 240;  --journal-soft: 26 44 78;
+  --conference: 196 181 253; --conference-soft: 46 32 84;
+  --preprint: 252 211 77;  --preprint-soft: 66 44 16;
+
+  --q1: 110 231 183; --q1-soft: 6 60 45;
+  --q2: 147 187 240; --q2-soft: 26 44 78;
+  --q3: 252 211 77;  --q3-soft: 66 44 16;
+  --q4: 252 165 165; --q4-soft: 76 20 20;
+
+  --success: 110 231 183; --success-soft: 6 60 45;
+  --warning: 252 211 77;  --warning-soft: 66 44 16;
+  --danger: 252 165 165;  --danger-soft: 76 20 20;
+
+  --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.4);
+  --shadow-md: 0 1px 2px rgb(0 0 0 / 0.4), 0 4px 12px rgb(0 0 0 / 0.3);
+  --shadow-lg: 0 2px 4px rgb(0 0 0 / 0.4), 0 12px 32px rgb(0 0 0 / 0.45);
+  color-scheme: dark;
+}

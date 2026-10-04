@@ -1,0 +1,105 @@
+id,expected_category,predicted_category,category_correct,expected_rank,predicted_rank,expected_conference_type,predicted_conference_type,expected_venue,predicted_venue,confidence,seconds,title
+conf-2022.coling-1.524,conference,unknown,0,B,,International,,COLING 2022,Unknown,0.3,0.68,
+conf-2022.coling-1.59,conference,unknown,0,B,,International,,COLING 2022,Unknown,0.3,4.74,
+conf-2022.lrec-1.148,conference,unknown,0,B,,International,,LREC 2022,Unknown,0.3,1.58,
+conf-2022.lrec-1.503,conference,unknown,0,B,,International,,LREC 2022,Unknown,0.3,1.06,
+conf-2023.acl-long.29,conference,journal,0,A*,Unranked,International,,ACL 2023,Unknown Journal,0.55,3.58,
+conf-2023.acl-long.6,conference,unknown,0,A*,,International,,ACL 2023,Unknown,0.3,1.51,
+conf-2023.acl-long.625,conference,unknown,0,A*,,International,,ACL 2023,Unknown,0.3,2.02,
+conf-2023.conll-1.22,conference,unknown,0,B,,International,,CoNLL 2023,Unknown,0.3,2.36,
+conf-2023.conll-1.3,conference,unknown,0,B,,International,,CoNLL 2023,Unknown,0.3,6.2,
+conf-2023.emnlp-main.296,conference,unknown,0,A*,,International,,EMNLP 2023,Unknown,0.3,2.38,
+conf-2023.emnlp-main.510,conference,unknown,0,A*,,International,,EMNLP 2023,Unknown,0.3,2.46,
+conf-2023.emnlp-main.538,conference,journal,0,A*,Unranked,International,,EMNLP 2023,Unknown Journal,0.55,1.08,
+conf-2023.ranlp-1.114,conference,conference,1,National,,National,International,RANLP 2023,Proceedings of the Conference Recent Advances in Natural Language Processing - Large Language Models for Natural Language Processings,0.9,3.61,
+conf-2023.ranlp-1.66,conference,conference,1,National,,National,International,RANLP 2023,Proceedings of the Conference Recent Advances in Natural Language Processing - Large Language Models for Natural Language Processings,0.85,2.35,
+conf-2024.eacl-long.122,conference,unknown,0,A,,International,,EACL 2024,Unknown,0.3,1.37,
+conf-2024.eacl-long.97,conference,unknown,0,A,,International,,EACL 2024,Unknown,0.3,1.95,
+conf-2024.naacl-long.153,conference,unknown,0,A,,International,,NAACL 2024,Unknown,0.3,2.9,
+conf-2024.naacl-long.265,conference,unknown,0,A,,International,,NAACL 2024,Unknown,0.3,6.22,
+conf-CVPR2023-Khan_Q_How_To_Specialize_Large_Vision-La,conference,conference,1,A*,,IEEE,IEEE,CVPR 2023,Unknown Conference,0.55,1.6,
+conf-CVPR2023-Liu_AdaptiveMix_Improving_GAN_Training_v,conference,conference,1,A*,,IEEE,IEEE,CVPR 2023,Unknown Conference,0.55,1.6,
+conf-CVPR2023-Peng_Perception_and_Semantic_Aware_Regul,conference,conference,1,A*,,IEEE,IEEE,CVPR 2023,Unknown Conference,0.55,1.61,
+conf-WACV2024-Barsellotti_FOSSIL_Free_Open-Vocabulary_,conference,conference,1,A,,IEEE,IEEE,WACV 2024,Unknown Conference,0.55,1.55,
+conf-WACV2024-Reich_Differentiable_JPEG_The_Devil_Is_i,conference,conference,1,A,,IEEE,IEEE,WACV 2024,Unknown Conference,0.55,2.35,
+conf-neurips2023-2f76a3a0f4,conference,unknown,0,A*,,International,,NeurIPS 2023,Unknown,0.3,1.33,
+conf-neurips2023-8393d955a0,conference,unknown,0,A*,,International,,NeurIPS 2023,Unknown,0.3,1.58,
+conf-neurips2023-d6d0e41e0b,conference,journal,0,A*,Unranked,International,,NeurIPS 2023,Unknown Journal,0.55,2.63,
+conf-pmlr-v195-cao23a,conference,unknown,0,A*,,International,,COLT 2023,Unknown,0.3,4.45,
+conf-pmlr-v195-diakonikolas23b,conference,unknown,0,A*,,International,,COLT 2023,Unknown,0.3,3.02,
+conf-pmlr-v202-bauer23a,conference,conference,1,A*,,International,National,ICML 2023,"Proceedings of the 40th International Conference on Machine tive Agent (AdA), an agent capable of human-timescale",0.48,8.87,
+conf-pmlr-v202-kauvar23a,conference,conference,1,A*,,International,National,ICML 2023,Proceedings of the 40th International Conference on Machine,0.48,3.48,
+conf-pmlr-v202-liu23o,conference,conference,1,A*,,International,National,ICML 2023,Proceedings of the 40th International Conference on Machine,0.48,11.36,
+conf-pmlr-v206-belakaria23a,conference,unknown,0,A,,International,,AISTATS 2023,Unknown,0.3,2.46,
+conf-pmlr-v206-cong23a,conference,unknown,0,A,,International,,AISTATS 2023,Unknown,0.3,6.0,
+conf-pmlr-v216-hochsprung23a,conference,unknown,0,A,,International,,UAI 2023,Unknown,0.3,1.52,
+conf-pmlr-v216-padmanabhan23a,conference,unknown,0,A,,International,,UAI 2023,Unknown,0.3,1.6,
+conf-pmlr-v222-jiang24a,conference,journal,0,C,Unranked,International,,ACML 2023,Unknown Journal,0.55,1.34,
+conf-pmlr-v222-zhang24a,conference,unknown,0,C,,International,,ACML 2023,Unknown,0.3,5.95,
+journal-Q1-W3027237079,journal,journal,1,Q1,Q1,,,,Hydrology and Earth System Sciences,0.88,6.32,
+journal-Q1-W3123775503,journal,journal,1,Q1,Q1,,,,IEEE Open Journal of Power Electronics,0.99,7.8,
+journal-Q1-W3183615998,journal,journal,1,Q1,Q1,,,,Life Science Alliance,0.95,6.36,"Downloaded from life-science-alliance.org on 3 October, 2026"
+journal-Q1-W3195459976,journal,journal,1,Q1,Q1,,,,Tydskrif vir Letterkunde,0.99,3.1,Fiction as prosthesis: Reading the contemporary African queer short story
+journal-Q1-W4281259845,journal,journal,1,Q1,Q1,,,,Millah: Journal of Religious Studies,0.99,3.43,
+journal-Q1-W4282016954,journal,unknown,0,Q1,,,,,Unknown,0.3,3.31,
+journal-Q1-W4307807511,journal,journal,1,Q1,Q1,,,,East/West: Journal of Ukrainian Studies,0.99,7.03,
+journal-Q1-W4363679403,journal,journal,1,Q1,Q1,,,,Environmental Evidence,0.99,6.34,
+journal-Q1-W4388488349,journal,journal,1,Q1,Q1,,,,First Monday,0.55,5.67,Should ChatGPT be biased? Challenges and risks of bias in large language models
+journal-Q1-W4389737189,journal,journal,1,Q1,Q1,,,,RIED-Revista Iberoamericana de Educacion a Distancia,0.99,4.12,
+journal-Q2-W3179164182,journal,journal,1,Q2,Q2,,,,Frontiers in Big Data,0.99,3.84,ORIGINALRESEARCH
+journal-Q2-W3205137010,journal,journal,1,Q2,Q2,,,,Horticultural Science and Technology,0.99,4.04,
+journal-Q2-W4220772846,journal,journal,1,Q2,Q2,,,,Discover Food,0.99,4.87,
+journal-Q2-W4221134614,journal,journal,1,Q2,Q2,,,,Zoosystematics and Evolution,0.99,2.68,"A new genus name for pygmy lorises, Xanthonycticebus gen. nov."
+journal-Q2-W4283719411,journal,journal,1,Q2,Q2,,,,Journal of Ocean Engineering and Technology,0.99,4.24,
+journal-Q2-W4283770495,journal,journal,1,Q2,Q2,,,,"Concept: Philosophy, Religion, Culture",0.99,3.74,
+journal-Q2-W4310869450,journal,journal,1,Q2,Q2,,,,Urbano,0.95,3.19,SONABRU
+journal-Q2-W4377093113,journal,journal,1,Q2,Unranked,,,,Apuntes de Psicología,0.4,3.21,1 Universidad de Sevilla benitosm@us.es
+journal-Q2-W4385348205,journal,journal,1,Q2,Q2,,,,Cosmopolitan Civil Societies,0.99,3.39,
+journal-Q2-W4387197159,journal,journal,1,Q2,Q2,,,,IEEE Open Journal of Instrumentation and Measurement,0.99,5.23,
+journal-Q3-W3177469262,journal,unknown,0,Q3,,,,,International Journal for Modern Trends in Science and Technology,0.3,2.65,June 2021
+journal-Q3-W3188216179,journal,journal,1,Q3,Q3,,,,Acta Scientiarum - Agronomy,0.99,3.34,
+journal-Q3-W3193670788,journal,journal,1,Q3,Q3,,,,South African Journal of Psychiatry,0.68,2.25,South African Journal of Psychiatry
+journal-Q3-W4200189219,journal,journal,1,Q3,Q3,,,,Vitae,0.99,5.72,
+journal-Q3-W4206809726,journal,journal,1,Q3,Q3,,,,Materials Research,0.99,5.07,Materials Research. 2022; 25:e20210442
+journal-Q3-W4210380238,journal,journal,1,Q3,Q3,,,,Geographica Pannonica,0.99,4.42,
+journal-Q3-W4224305856,journal,unknown,0,Q3,,,,,Unknown,0.3,3.26,
+journal-Q3-W4224306304,journal,journal,1,Q3,Unranked,,,,Unknown Journal,0.48,1.16,
+journal-Q3-W4281626433,journal,journal,1,Q3,Q3,,,,Jurnal Medik Veteriner,0.99,2.79,
+journal-Q3-W4362578055,journal,journal,1,Q3,Q3,,,,Journal of the Canadian Health Libraries Association,0.99,1.5,PRODUCT REVIEW / ÉVALUATION DE PRODUIT
+journal-Q4-W3154665353,journal,journal,1,Q4,Q4,,,,Giornale di Clinica Nefrologica e Dialisi,0.98,4.29,GCND G Clin Nefrol Dial 2021; 33: 42-50
+journal-Q4-W3172358844,journal,journal,1,Q4,Q4,,,,Botanica Complutensis,0.85,1.71,
+journal-Q4-W3183676358,journal,journal,1,Q4,Q4,,,,Journal of Object Technology,0.85,5.75,JournalofObjectTechnology|RESEARCHARTICLE
+journal-Q4-W3204708469,journal,journal,1,Q4,Q4,,,,Gomal Journal of Medical Sciences,0.99,3.33,STUDENTS' CORNER ORIGINAL ARTICLE
+journal-Q4-W4200611170,journal,journal,1,Q4,Q4,,,,Antropologia Portuguesa,0.95,1.75,Negotiating structural
+journal-Q4-W4226142375,journal,journal,1,Q4,Q4,,,,Turkiye Klinikleri Cardiovascular Sciences,0.95,2.99,Türkiye Klinikleri Cardiovascular Sciences
+journal-Q4-W4308881151,journal,journal,1,Q4,Q4,,,,Modern Pediatrics. Ukraine,0.99,3.06,Читайте нас на сайті: http://medexpert.com.ua
+journal-Q4-W4387489895,journal,unknown,0,Q4,,,,,Journal of SoCiology/CahierS CanadienS de SoCiologie 46(3) 2021 191,0.3,2.12,
+journal-Q4-W4390900271,journal,journal,1,Q4,Q4,,,,Revue Medicale de Bruxelles,0.99,3.42,
+journal-Q4-W4404526692,journal,journal,1,Q4,Q4,,,,Boletim de Estudos Classicos,0.95,2.28,
+arxiv-2610.02203,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,2.55,
+arxiv-2610.02207,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,2.68,
+arxiv-2610.02117,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,2.65,
+arxiv-2610.01702,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,1.31,
+arxiv-2610.01963,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,1.37,
+arxiv-2610.01688,arxiv,journal,0,,Unranked,,,arXiv,Unknown Journal,0.5,14.48,
+arxiv-2610.02051,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,2.24,
+arxiv-2610.02205,arxiv,unknown,0,,,,,arXiv,Introduction to Blender 3.0,0.3,5.23,PROWBench: Do Video Models Render
+arxiv-2610.02208,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,3.83,
+arxiv-2610.01907,arxiv,journal,0,,Unranked,,,arXiv,Unknown Journal,0.55,1.07,
+arxiv-2610.01872,arxiv,conference,0,,,,IEEE,arXiv,high-impact venues between tectures [16].,0.55,1.99,
+arxiv-2610.01300,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,1.54,
+arxiv-2610.01795,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,3.23,
+arxiv-2610.01137,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,1.14,
+arxiv-2610.01273,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,2.44,
+arxiv-2609.37642,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,3.91,
+arxiv-2609.34864,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,4.31,
+arxiv-2610.01303,arxiv,conference,0,,,,IEEE,arXiv,2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC),0.53,5.02,A High-Density EEG Dataset for Stimulus-Driven
+arxiv-2610.01706,arxiv,journal,0,,Q1,,,arXiv,Physical Review D,0.5,3.26,Analogue black hole lightring and its resonances in an optical fiber
+arxiv-2610.00747,arxiv,conference,0,,,,International,arXiv,CLEO 2026,0.4,6.44,Three-Wave Mixing as a High-Throughput Diagnostic Tool for Nonlinear Waveguides
+arxiv-2609.39928,arxiv,journal,0,,Q1,,,arXiv,Laser and Photonics Reviews,0.6,2.36,Near-field Ultrafast Nondiffractive Laser Nanoscale Cutting of Glass with Quasi-null
+arxiv-2609.38459,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,2.61,
+arxiv-2609.31951,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,3.29,
+arxiv-2609.32476,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,1.2,
+arxiv-2610.01313,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,3.91,
+arxiv-2609.39742,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,8.73,
+arxiv-2610.00766,arxiv,unknown,0,,,,,arXiv,Unknown,0.3,3.39,

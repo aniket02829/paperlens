@@ -1,0 +1,107 @@
+id,expected_category,predicted_category,category_correct,expected_rank,predicted_rank,expected_conference_type,predicted_conference_type,expected_venue,predicted_venue,confidence,seconds,title
+conf-2022.coling-1.524,conference,conference,1,B,B,International,International,COLING 2022,International Conference on Computational Linguistics,0.51,1.62,Automatic Nominalization of Clauses through Textual Entailment
+conf-2022.coling-1.59,conference,conference,1,B,B,International,International,COLING 2022,International Conference on Computational Linguistics,0.51,4.11,Generalized Intent Discovery: Learning from Open World Dialogue System
+conf-2022.lrec-1.148,conference,conference,1,B,B,International,International,LREC 2022,Thirteenth Language Resources and Evaluation Conference,0.83,1.98,Czech Dataset for Cross-lingual Subjectivity Classification
+conf-2022.lrec-1.503,conference,conference,1,B,B,International,International,LREC 2022,Thirteenth Language Resources and Evaluation Conference,0.99,1.47,The ALPIN Sentiment Dictionary: Austrian Language Polarity in Newspapers
+conf-2023.acl-long.29,conference,conference,1,A*,A*,International,International,ACL 2023,Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers),0.83,3.79,Revealing Single Frame Bias for Video-and-Language Learning
+conf-2023.acl-long.6,conference,conference,1,A*,A*,International,International,ACL 2023,Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers),0.83,2.27,Span-Selective Linear Attention Transformers for Effective and Robust Schema-Guided Dialogue State Tracking
+conf-2023.acl-long.625,conference,conference,1,A*,A*,International,International,ACL 2023,Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers),0.99,2.27,Multitask Pre-training of Modular Prompt for Chinese Few-Shot Learning
+conf-2023.conll-1.22,conference,conference,1,B,B,International,International,CoNLL 2023,Proceedings of the 27th Conference on Computational Natural Language Learning (CoNLL),0.83,2.94,Revising with a Backward Glance: Regressions and Skips during Reading as Cognitive Signals for Revision Policies in Incr
+conf-2023.conll-1.3,conference,conference,1,B,B,International,International,CoNLL 2023,Proceedings of the 27th Conference on Computational Natural Language Learning (CoNLL),0.99,5.93,The Zipfian Challenge: Learning the statistical fingerprint of natural languages
+conf-2023.emnlp-main.296,conference,conference,1,A*,A*,International,International,EMNLP 2023,Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing,0.83,3.1,Can We Edit Factual Knowledge by In-Context Learning?
+conf-2023.emnlp-main.510,conference,conference,1,A*,A*,International,International,EMNLP 2023,Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing,0.83,3.35,DSI++: Updating Transformer Memory with New Documents
+conf-2023.emnlp-main.538,conference,conference,1,A*,A*,International,International,EMNLP 2023,Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing,0.83,2.15,SOUL: Towards Sentiment and Opinion Understanding of Language
+conf-2023.ranlp-1.114,conference,conference,1,National,National,National,National,RANLP 2023,International Conference Recent Advances in Natural Language Processing,0.99,1.41,Tackling the Myriads of Collusion Scams on YouTube Comments of Cryptocurrency Videos
+conf-2023.ranlp-1.66,conference,conference,1,National,National,National,National,RANLP 2023,International Conference Recent Advances in Natural Language Processing,0.99,1.65,Simultaneous Interpreting as a Noisy Channel: How Much Information Gets Through
+conf-2024.eacl-long.122,conference,conference,1,A,A,International,International,EACL 2024,Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers),0.99,2.42,Answering legal questions from laymen in German civil law system
+conf-2024.eacl-long.97,conference,conference,1,A,A,International,International,EACL 2024,Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers),0.83,3.02,Discovering and Articulating Frames of Communication from Social Media Using Chain-of-Thought Reasoning
+conf-2024.naacl-long.153,conference,conference,1,A,A,International,International,NAACL 2024,Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers),0.83,3.57,Paraphrase and Solve: Exploring and Exploiting the Impact of Surface Form on Mathematical Reasoning in Large Language Mo
+conf-2024.naacl-long.265,conference,conference,1,A,A,International,International,NAACL 2024,Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers),0.83,5.96,HILL: Hierarchy-aware Information Lossless Contrastive Learning for Hierarchical Text Classification
+conf-CVPR2023-Khan_Q_How_To_Specialize_Large_Vision-La,conference,conference,1,A*,A*,IEEE,IEEE,CVPR 2023,2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),0.99,2.88,Q: How to Specialize Large Vision-Language Models to Data-Scarce VQA Tasks? A: Self-Train on Unlabeled Images!
+conf-CVPR2023-Liu_AdaptiveMix_Improving_GAN_Training_v,conference,conference,1,A*,A*,IEEE,IEEE,CVPR 2023,2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),0.99,2.79,AdaptiveMix: Improving GAN Training via Feature Space Shrinkage
+conf-CVPR2023-Peng_Perception_and_Semantic_Aware_Regul,conference,conference,1,A*,A*,IEEE,IEEE,CVPR 2023,2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),0.99,2.41,Perception and Semantic Aware Regularization for Sequential Confidence Calibration
+conf-WACV2024-Barsellotti_FOSSIL_Free_Open-Vocabulary_,conference,conference,1,A,A,IEEE,IEEE,WACV 2024,2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV),0.99,2.44,FOSSIL: Free Open-Vocabulary Semantic Segmentation through Synthetic References Retrieval
+conf-WACV2024-Reich_Differentiable_JPEG_The_Devil_Is_i,conference,conference,1,A,A,IEEE,IEEE,WACV 2024,2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV),0.99,3.36,Differentiable JPEG: The Devil is in the Details
+conf-neurips2023-2f76a3a0f4,conference,conference,1,A*,A*,International,International,NeurIPS 2023,Advances in Neural Information Processing Systems 36,0.99,2.45,AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders
+conf-neurips2023-8393d955a0,conference,conference,1,A*,A*,International,International,NeurIPS 2023,Advances in Neural Information Processing Systems 36,0.99,3.49,Slimmed Asymmetrical Contrastive Learning and Cross Distillation for Lightweight Model Training
+conf-neurips2023-d6d0e41e0b,conference,conference,1,A*,A*,International,International,NeurIPS 2023,Advances in Neural Information Processing Systems 36,0.83,3.32,Dynamic Sparsity Is Channel-Level Sparsity Learner
+conf-pmlr-v195-cao23a,conference,conference,1,A*,A*,International,International,COLT 2023,Conference on Learning Theory,0.51,3.99,The Implicit Bias of Batch Normalization in Linear Models and Two-layer Linear Convolutional Neural Networks
+conf-pmlr-v195-diakonikolas23b,conference,conference,1,A*,A*,International,International,COLT 2023,Conference on Learning Theory,0.51,2.9,SQ Lower Bounds for Learning Mixtures of Separated and Bounded Covariance Gaussians
+conf-pmlr-v202-bauer23a,conference,conference,1,A*,A*,International,International,ICML 2023,International Conference on Machine Learning,0.51,7.14,Human-Timescale Adaptation in an Open-Ended Task Space
+conf-pmlr-v202-kauvar23a,conference,conference,1,A*,A*,International,International,ICML 2023,International Conference on Machine Learning,0.51,3.1,Curious Replay for Model-based Adaptation
+conf-pmlr-v202-liu23o,conference,conference,1,A*,A*,International,International,ICML 2023,International Conference on Machine Learning,0.51,8.92,NUNO: A General Framework for Learning Parametric PDEs with Non-Uniform Data
+conf-pmlr-v206-belakaria23a,conference,conference,1,A,A,International,International,AISTATS 2023,International Conference on Artificial Intelligence and Statistics,0.51,2.5,Bayesian Optimization Over Iterative Learners with Structured Responses: A Budget-aware Planning Approach
+conf-pmlr-v206-cong23a,conference,conference,1,A,A,International,International,AISTATS 2023,International Conference on Artificial Intelligence and Statistics,0.51,5.06,Efficiently Forgetting What You Have Learned in Graph Representation Learning via Projection
+conf-pmlr-v216-hochsprung23a,conference,conference,1,A,A,International,International,UAI 2023,Conference in Uncertainty in Artificial Intelligence,0.51,1.68,Increasing Effect Sizes of Pairwise Conditional Independence Tests between Random Vectors
+conf-pmlr-v216-padmanabhan23a,conference,conference,1,A,A,International,International,UAI 2023,Conference in Uncertainty in Artificial Intelligence,0.51,1.77,Maximizing Submodular Functions under Submodular Constraints
+conf-pmlr-v222-jiang24a,conference,conference,1,C,C,International,International,ACML 2023,Asian Conference on Machine Learning,0.51,1.7,Provably Robust and Plausible Counterfactual Explanations for Neural Networks via Robust Optimisation
+conf-pmlr-v222-zhang24a,conference,conference,1,C,C,International,International,ACML 2023,Asian Conference on Machine Learning,0.51,4.95,Graph Contrastive Learning with Group Whitening
+journal-Q1-W3027237079,journal,journal,1,Q1,Q1,,,,Hydrology and Earth System Sciences,0.78,3.53,Evaluation of 18 satellite- and model-based soil moisture products using in situ measurements from 826 sensors
+journal-Q1-W3123775503,journal,journal,1,Q1,Q1,,,,IEEE Open Journal of Power Electronics,0.94,6.46,"Grid Impact of Electric Vehicle Fast Charging Stations: Trends, Standards, Issues and Mitigation Measures - An Overview"
+journal-Q1-W3183615998,journal,journal,1,Q1,Q1,,,,Life Science Alliance,0.84,4.31,"Exosome-mediated delivery of CRISPR/Cas9 for targeting of oncogenic Kras
+                    <sup>G12D</sup>
+           "
+journal-Q1-W3195459976,journal,journal,1,Q1,Q1,,,,Tydskrif vir Letterkunde,0.97,2.22,Fiction as prosthesis: Reading the contemporary African queer short story
+journal-Q1-W4281259845,journal,journal,1,Q1,Q1,,,,Millah: Journal of Religious Studies,0.84,1.65,The Perception of Millennial Generation on Religious Moderation through Social Media in the Digital Era
+journal-Q1-W4282016954,journal,journal,1,Q1,Q1,,,,PLOS Global Public Health,0.94,2.11,Funders: The missing link in equitable global health research?
+journal-Q1-W4307807511,journal,journal,1,Q1,Q1,,,,East/West: Journal of Ukrainian Studies,0.99,4.93,"Historians As Enablers? Historiography, Imperialism, and the Legitimization of Russian Aggression"
+journal-Q1-W4363679403,journal,journal,1,Q1,Q1,,,,Environmental Evidence,0.88,2.95,Climate change and the global redistribution of biodiversity: substantial variation in empirical support for expected ra
+journal-Q1-W4388488349,journal,journal,1,Q1,Q1,,,,First Monday,0.85,3.98,Should ChatGPT be biased? Challenges and risks of bias in large language models
+journal-Q1-W4389737189,journal,journal,1,Q1,Q1,,,,RIED-Revista Iberoamericana de Educacion a Distancia,0.91,3.06,La nueva realidad de la educación ante los avances de la inteligencia artificial generativa
+journal-Q2-W3179164182,journal,journal,1,Q2,Q2,,,,Frontiers in Big Data,0.81,2.64,A Benchmark for Data Imputation Methods
+journal-Q2-W3205137010,journal,journal,1,Q2,Q2,,,,Horticultural Science and Technology,0.97,2.4,"Production of Grafted Vegetable Seedlings in the Republic of Korea: Achievements, Challenges and Perspectives"
+journal-Q2-W4220772846,journal,journal,1,Q2,Q2,,,,Discover Food,0.94,3.1,Application of nanotechnology in different aspects of the food industry
+journal-Q2-W4221134614,journal,journal,1,Q2,Q2,,,,Zoosystematics and Evolution,0.94,1.69,"A new genus name for pygmy lorises, Xanthonycticebus gen. nov. (Mammalia, primates)"
+journal-Q2-W4283719411,journal,journal,1,Q2,Q2,,,,Journal of Ocean Engineering and Technology,0.99,2.66,Review on Applications of Machine Learning in Coastal and Ocean Engineering
+journal-Q2-W4283770495,journal,journal,1,Q2,Q2,,,,"Concept: Philosophy, Religion, Culture",0.63,2.42,Modern Imagology: Significance and Development Prospects
+journal-Q2-W4310869450,journal,journal,1,Q2,Q2,,,,Urbano,0.72,1.91,Acceder caminando a los humedales urbanos: una oportunidad de recreación y bienestar
+journal-Q2-W4377093113,journal,unknown,0,Q2,,,,,,0.0,1.64,Error
+journal-Q2-W4385348205,journal,journal,1,Q2,Q2,,,,Cosmopolitan Civil Societies,0.94,2.17,Universal Values of Pancasila in Managing the Crime of Terrorism
+journal-Q2-W4387197159,journal,journal,1,Q2,Q2,,,,IEEE Open Journal of Instrumentation and Measurement,0.94,2.93,Conv-Random Forest-Based IoT: A Deep Learning Model Based on CNN and Random Forest for Classification and Analysis of Va
+journal-Q3-W3177469262,journal,journal,1,Q3,Q3,,,,"Journal of Educational, Cultural and Psychological Studies",0.54,1.75,23 June 2021
+journal-Q3-W3188216179,journal,journal,1,Q3,Q3,,,,Acta Scientiarum - Agronomy,0.91,2.14,Using plants to remediate or manage metal-polluted soils: an overview on the current state of phytotechnologies
+journal-Q3-W3193670788,journal,journal,1,Q3,Q3,,,,South African Journal of Psychiatry,0.97,2.38,The experiences and perceptions of mental health service provision at a primary health centre in the Eastern Cape
+journal-Q3-W4200189219,journal,journal,1,Q3,Q3,,,,Vitae,0.72,3.9,"Nucleic acid-based biosensors: analytical devices for prevention, diagnosis and treatment of diseases"
+journal-Q3-W4206809726,journal,journal,1,Q3,Q3,,,,Materials Research,0.97,2.95,"A review on Corrosion of High Entropy Alloys: Exploring the Interplay Between Corrosion Properties, Alloy Composition, P"
+journal-Q3-W4210380238,journal,journal,1,Q3,Q3,,,,Geographica Pannonica,0.84,2.89,Pandemic populism: COVID-19 and the rise of the Nationalist AUR party in Romania
+journal-Q3-W4224305856,journal,journal,1,Q3,Q3,,,,Cuadernos de Psicologia del Deporte,0.75,3.52,"Actividad física, naturaleza y bienestar mental: una revisión sistemática"
+journal-Q3-W4224306304,journal,journal,1,Q3,Q3,,,,Arquivo Brasileiro de Medicina Veterinaria e Zootecnia,0.91,2.04,Gastrointestinal parasites in dogs and cats in line with the One Health' approach
+journal-Q3-W4281626433,journal,journal,1,Q3,Q3,,,,Jurnal Medik Veteriner,0.85,1.61,Study of Performance Index and Business Analysis on Chicken Infected by Escherichia coli with Probiotic Provision of Lac
+journal-Q3-W4362578055,journal,journal,1,Q3,Q3,,,,Journal of the Canadian Health Libraries Association,0.73,1.13,Elicit (product review)
+journal-Q4-W3154665353,journal,journal,1,Q4,Q4,,,,Giornale di Clinica Nefrologica e Dialisi,0.81,1.99,"Governance nell’innovazione: Sanità Digitale, Mobile Health, Big Data, Virtual Reality"
+journal-Q4-W3172358844,journal,journal,1,Q4,Q4,,,,Botanica Complutensis,0.75,1.4,Chorological novelties of the genus Cladonia in Toledo province (Spain)
+journal-Q4-W3183676358,journal,journal,1,Q4,Q4,,,,Journal of Object Technology,0.66,3.2,Towards a Generic Method for Articulating Design-time Uncertainty.
+journal-Q4-W3204708469,journal,journal,1,Q4,Q4,,,,Gomal Journal of Medical Sciences,0.99,2.1,"PREVALENCE AND DISTRIBUTION OF MALARIA BY SEX, AGE GROUPS AND SPECIES IN YEAR 2019 IN SUSPECTED MALARIAL POPULATION OF D"
+journal-Q4-W4200611170,journal,journal,1,Q4,Q4,,,,Antropologia Portuguesa,0.72,1.7,Negotiating structural vulnerability in cancer control
+journal-Q4-W4226142375,journal,journal,1,Q4,Q4,,,,Turkiye Klinikleri Cardiovascular Sciences,0.66,1.75,Determination of Spiritual Well-Being and Hope Level of Patients Undergoing Open Heart Surgery: A Descriptive Study
+journal-Q4-W4308881151,journal,journal,1,Q4,Q4,,,,Modern Pediatrics. Ukraine,0.76,1.91,"Tolerance to physical activity and its changes in children after COVID-19 (literature review, own data)"
+journal-Q4-W4387489895,journal,journal,1,Q4,Q4,,,,Canadian Journal of Sociology,0.91,2.81,Should I Stay or Should I Go Home? Newcomer Employment Experiences in Mid-Sized Canadian Cities
+journal-Q4-W4390900271,journal,journal,1,Q4,Q4,,,,Revue Medicale de Bruxelles,0.76,2.18,Pregabalin misuse in French speaking Belgium: quantitative surveys
+journal-Q4-W4404526692,journal,journal,1,Q4,Q4,,,,Boletim de Estudos Classicos,0.72,0.71,Praefectus orae maritimae
+arxiv-2610.02203,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,2.78,Embedding Prediction Helps Image Generation
+arxiv-2610.02207,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,2.66,One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars
+arxiv-2610.02117,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,2.04,Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes
+arxiv-2610.01702,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,1.03,Task-Oriented Rank Adaptation for Continual Learning in Text Classification
+arxiv-2610.01963,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,1.12,Counterfactual Auditing of Bias in Open-Source Large Language Models for Clinical Triage
+arxiv-2610.01688,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,10.98,Compound interpretation is based on analogy
+arxiv-2610.02051,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,1.97,Learning from Failure: Leveraging Unreliable Predictions in Semi-Supervised Real-World Adverse Weather Removal
+arxiv-2610.02205,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,3.1,ROWBench: Do Video Models Render What the Program Specifies?
+arxiv-2610.02208,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,2.95,Sphere Encoder 2
+arxiv-2610.01907,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,1.03,Detection and Resolution of Periodic Artifacts in OpenDP's Discrete Laplace Sampler
+arxiv-2610.01872,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,2.26,From Network Intrusion Detection to Blockchain-Backed Endpoint Detection and Response: Mapping the Landscape of Decentra
+arxiv-2610.01300,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,1.31,"A Systematization of Knowledge on DeFi Vaults: Architectures, Curation Mechanisms, and Strategy Design"
+arxiv-2610.01795,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,2.55,Quadratic distances in even dimensions over prime fields
+arxiv-2610.01137,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,1.03,Perfect matching covers of claw-free cubic graphs
+arxiv-2610.01273,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,1.81,A unified framework for existing and new constructions of Neumaier graphs
+arxiv-2609.37642,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,2.8,Flattening the Connectome Spectrum: A Spectral Filter for FC Induces a Pretraining Target for fMRI Encoders
+arxiv-2609.34864,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,3.9,On the Limits of Metacognitive Monitoring in LLMs
+arxiv-2610.01303,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,2.81,A High-Density EEG Dataset for Stimulus-Driven Auditory Attention
+arxiv-2610.01706,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,1.62,Analogue black hole lightring and its resonances in an optical fiber
+arxiv-2610.00747,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,3.67,Three-Wave Mixing as a High-Throughput Diagnostic Tool for Nonlinear Waveguides
+arxiv-2609.39928,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,1.17,Near-field Ultrafast Nondiffractive Laser Nanoscale Cutting of Glass with Quasi-null Interface Roughness
+arxiv-2609.38459,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,2.62,Maintaining Human Verification Capacity under Automation
+arxiv-2609.31951,arxiv,arxiv,1,,,,,arXiv,arXiv,0.63,4.2,Information Latency: Theory and Economic Consequences
+arxiv-2609.32476,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,1.69,Economic Governance of Autonomous Agents and Robots: Factor-Origin Accounting and Social Automation Funds
+arxiv-2610.01313,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,2.96,Testing and segmentation of joint and individual components in integrative multi-source factor models
+arxiv-2609.39742,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,6.2,Estimands and estimation in trials with time trends
+arxiv-2610.00766,arxiv,arxiv,1,,,,,arXiv,arXiv,0.75,3.31,Factor Model Estimation for High-Dimensional Time Series with Heteroskedastic Noise
